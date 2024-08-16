@@ -85,6 +85,10 @@ void simulate_one_phase(void) {
   f1.receive_bw = C * tmp / (tmp + f3.sending_bw);
   f3.receive_bw = C * f3.sending_bw / (tmp + f3.sending_bw);
 
+  f1.receive_bw = min(f1.receive_bw, f1.sending_bw);
+  f2.receive_bw = min(f2.receive_bw, f2.sending_bw);
+  f3.receive_bw = min(f3.receive_bw, f3.sending_bw);
+
   printf("t= %04d receive: f1: %.3f f2: %.3f f3: %.3f\n",
          t, f1.receive_bw, f2.receive_bw, f3.receive_bw);
 
