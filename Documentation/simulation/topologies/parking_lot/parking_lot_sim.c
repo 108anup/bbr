@@ -4,9 +4,11 @@
 //  https://groups.google.com/g/bbr-dev/c/lHYHY_P9DsU/m/_O6f4OLjBAAJ
 
 #include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
 
 #define BW_CYCLE_LEN 8
-const double pacing_gain_cycle[BW_CYCLE_LEN] = {
+double pacing_gain_cycle[BW_CYCLE_LEN] = {
   1.25,
   0.9,
   1.0,
@@ -103,16 +105,42 @@ void simulate_one_phase(void) {
   bw_filter_index = (bw_filter_index + 1) % BW_FILTER_LEN;
 }
 
+void parse_args_and_init(int argc, char *argv[]) {
+  /**
+   * --probe-gain
+   * --drain-gain
+   * --init-ratio
+   */
+
+  int i = 0;
+  double init_ratio = 1;
+
+  for (i = 1; i < argc; i++) {
+    if (strcmp(argv[i], "--probe-gain") == 0) {
+      pacing_gain_cycle[0] = atof(argv[++i]);
+    } else if (strcmp(argv[i], "--drain-gain") == 0) {
+      pacing_gain_cycle[1] = atof(argv[++i]);
+    } else if (strcmp(argv[i], "--init-ratio") == 0) {
+      init_ratio = atof(argv[++i]);
+    } else {
+      fprintf(stderr, "Unknown argument: %s\n", argv[i]);
+      abort();
+    }
+  }
+
+  f1.max_bw = C * 1 / (1 + init_ratio);
+  f2.max_bw = C * init_ratio / (1 + init_ratio);
+  f3.max_bw = C * init_ratio / (1 + init_ratio);
+}
+
 int main(int argc, char *argv[]) {
   int i = 0;
+
+  parse_args_and_init(argc, argv);
 
   f1.index = 1;
   f2.index = 2;
   f3.index = 3;
-
-  f1.max_bw = 0.5 * C;
-  f2.max_bw = 0.5 * C;
-  f3.max_bw = 0.5 * C;
 
   f1.bw_samples[BW_FILTER_LEN - 1] = f1.max_bw;
   f2.bw_samples[BW_FILTER_LEN - 1] = f2.max_bw;
