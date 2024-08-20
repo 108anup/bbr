@@ -1,0 +1,3500 @@
+flow 1 phase: 0 max_bw: 1.429 sending_bw: 1.786
+flow 2 phase: 2 max_bw: 8.571 sending_bw: 8.571
+flow 3 phase: 4 max_bw: 8.571 sending_bw: 8.571
+t= 0000 sending: f1: 1.786 f2: 8.571 f3: 8.571
+t= 0000 receive: f1: 1.675 f2: 8.276 f3: 8.325
+t= 0000  max_bw: f1: 1.675 f2: 8.571 f3: 8.571
+
+flow 1 phase: 1 max_bw: 1.675 sending_bw: 1.256
+flow 2 phase: 3 max_bw: 8.571 sending_bw: 8.571
+flow 3 phase: 5 max_bw: 8.571 sending_bw: 8.571
+t= 0001 sending: f1: 1.256 f2: 8.571 f3: 8.571
+t= 0001 receive: f1: 1.256 f2: 8.571 f3: 8.571
+t= 0001  max_bw: f1: 1.675 f2: 8.571 f3: 8.571
+
+flow 1 phase: 2 max_bw: 1.675 sending_bw: 1.675
+flow 2 phase: 4 max_bw: 8.571 sending_bw: 8.571
+flow 3 phase: 6 max_bw: 8.571 sending_bw: 8.571
+t= 0002 sending: f1: 1.675 f2: 8.571 f3: 8.571
+t= 0002 receive: f1: 1.601 f2: 8.366 f3: 8.399
+t= 0002  max_bw: f1: 1.675 f2: 8.571 f3: 8.571
+
+flow 1 phase: 3 max_bw: 1.675 sending_bw: 1.675
+flow 2 phase: 5 max_bw: 8.571 sending_bw: 8.571
+flow 3 phase: 7 max_bw: 8.571 sending_bw: 8.571
+t= 0003 sending: f1: 1.675 f2: 8.571 f3: 8.571
+t= 0003 receive: f1: 1.601 f2: 8.366 f3: 8.399
+t= 0003  max_bw: f1: 1.675 f2: 8.571 f3: 8.571
+
+flow 1 phase: 4 max_bw: 1.675 sending_bw: 1.675
+flow 2 phase: 6 max_bw: 8.571 sending_bw: 8.571
+flow 3 phase: 0 max_bw: 8.571 sending_bw: 10.714
+t= 0004 sending: f1: 1.675 f2: 8.571 f3: 10.714
+t= 0004 receive: f1: 1.324 f2: 8.366 f3: 8.676
+t= 0004  max_bw: f1: 1.675 f2: 8.571 f3: 8.676
+
+flow 1 phase: 5 max_bw: 1.675 sending_bw: 1.675
+flow 2 phase: 7 max_bw: 8.571 sending_bw: 8.571
+flow 3 phase: 1 max_bw: 8.676 sending_bw: 6.507
+t= 0005 sending: f1: 1.675 f2: 8.571 f3: 6.507
+t= 0005 receive: f1: 1.675 f2: 8.366 f3: 6.507
+t= 0005  max_bw: f1: 1.675 f2: 8.571 f3: 8.676
+
+flow 1 phase: 6 max_bw: 1.675 sending_bw: 1.675
+flow 2 phase: 0 max_bw: 8.571 sending_bw: 10.714
+flow 3 phase: 2 max_bw: 8.676 sending_bw: 8.676
+t= 0006 sending: f1: 1.675 f2: 10.714 f3: 8.676
+t= 0006 receive: f1: 1.348 f2: 8.648 f3: 8.652
+t= 0006  max_bw: f1: 1.675 f2: 8.648 f3: 8.676
+
+flow 1 phase: 7 max_bw: 1.675 sending_bw: 1.675
+flow 2 phase: 1 max_bw: 8.648 sending_bw: 6.486
+flow 3 phase: 3 max_bw: 8.676 sending_bw: 8.676
+t= 0007 sending: f1: 1.675 f2: 6.486 f3: 8.676
+t= 0007 receive: f1: 1.675 f2: 6.486 f3: 8.087
+t= 0007  max_bw: f1: 1.675 f2: 8.648 f3: 8.676
+
+flow 1 phase: 0 max_bw: 1.675 sending_bw: 2.093
+flow 2 phase: 2 max_bw: 8.648 sending_bw: 8.648
+flow 3 phase: 4 max_bw: 8.676 sending_bw: 8.676
+t= 0008 sending: f1: 2.093 f2: 8.648 f3: 8.676
+t= 0008 receive: f1: 1.834 f2: 8.051 f3: 8.166
+t= 0008  max_bw: f1: 1.834 f2: 8.648 f3: 8.676
+
+flow 1 phase: 1 max_bw: 1.834 sending_bw: 1.376
+flow 2 phase: 3 max_bw: 8.648 sending_bw: 8.648
+flow 3 phase: 5 max_bw: 8.676 sending_bw: 8.676
+t= 0009 sending: f1: 1.376 f2: 8.648 f3: 8.676
+t= 0009 receive: f1: 1.366 f2: 8.628 f3: 8.634
+t= 0009  max_bw: f1: 1.834 f2: 8.648 f3: 8.676
+
+flow 1 phase: 2 max_bw: 1.834 sending_bw: 1.834
+flow 2 phase: 4 max_bw: 8.648 sending_bw: 8.648
+flow 3 phase: 6 max_bw: 8.676 sending_bw: 8.676
+t= 0010 sending: f1: 1.834 f2: 8.648 f3: 8.676
+t= 0010 receive: f1: 1.678 f2: 8.250 f3: 8.322
+t= 0010  max_bw: f1: 1.834 f2: 8.648 f3: 8.676
+
+flow 1 phase: 3 max_bw: 1.834 sending_bw: 1.834
+flow 2 phase: 5 max_bw: 8.648 sending_bw: 8.648
+flow 3 phase: 7 max_bw: 8.676 sending_bw: 8.676
+t= 0011 sending: f1: 1.834 f2: 8.648 f3: 8.676
+t= 0011 receive: f1: 1.678 f2: 8.250 f3: 8.322
+t= 0011  max_bw: f1: 1.834 f2: 8.648 f3: 8.676
+
+flow 1 phase: 4 max_bw: 1.834 sending_bw: 1.834
+flow 2 phase: 6 max_bw: 8.648 sending_bw: 8.648
+flow 3 phase: 0 max_bw: 8.676 sending_bw: 10.846
+t= 0012 sending: f1: 1.834 f2: 8.648 f3: 10.846
+t= 0012 receive: f1: 1.389 f2: 8.250 f3: 8.611
+t= 0012  max_bw: f1: 1.834 f2: 8.648 f3: 8.676
+
+flow 1 phase: 5 max_bw: 1.834 sending_bw: 1.834
+flow 2 phase: 7 max_bw: 8.648 sending_bw: 8.648
+flow 3 phase: 1 max_bw: 8.676 sending_bw: 6.507
+t= 0013 sending: f1: 1.834 f2: 8.648 f3: 6.507
+t= 0013 receive: f1: 1.834 f2: 8.250 f3: 6.507
+t= 0013  max_bw: f1: 1.834 f2: 8.648 f3: 8.676
+
+flow 1 phase: 6 max_bw: 1.834 sending_bw: 1.834
+flow 2 phase: 0 max_bw: 8.648 sending_bw: 10.810
+flow 3 phase: 2 max_bw: 8.676 sending_bw: 8.676
+t= 0014 sending: f1: 1.834 f2: 10.810 f3: 8.676
+t= 0014 receive: f1: 1.432 f2: 8.549 f3: 8.568
+t= 0014  max_bw: f1: 1.834 f2: 8.648 f3: 8.652
+
+flow 1 phase: 7 max_bw: 1.834 sending_bw: 1.834
+flow 2 phase: 1 max_bw: 8.648 sending_bw: 6.486
+flow 3 phase: 3 max_bw: 8.652 sending_bw: 8.652
+t= 0015 sending: f1: 1.834 f2: 6.486 f3: 8.652
+t= 0015 receive: f1: 1.834 f2: 6.486 f3: 7.970
+t= 0015  max_bw: f1: 1.834 f2: 8.648 f3: 8.652
+
+flow 1 phase: 0 max_bw: 1.834 sending_bw: 2.293
+flow 2 phase: 2 max_bw: 8.648 sending_bw: 8.648
+flow 3 phase: 4 max_bw: 8.652 sending_bw: 8.652
+t= 0016 sending: f1: 2.293 f2: 8.648 f3: 8.652
+t= 0016 receive: f1: 1.950 f2: 7.905 f3: 8.050
+t= 0016  max_bw: f1: 1.950 f2: 8.628 f3: 8.634
+
+flow 1 phase: 1 max_bw: 1.950 sending_bw: 1.462
+flow 2 phase: 3 max_bw: 8.628 sending_bw: 8.628
+flow 3 phase: 5 max_bw: 8.634 sending_bw: 8.634
+t= 0017 sending: f1: 1.462 f2: 8.628 f3: 8.634
+t= 0017 receive: f1: 1.437 f2: 8.551 f3: 8.563
+t= 0017  max_bw: f1: 1.950 f2: 8.628 f3: 8.634
+
+flow 1 phase: 2 max_bw: 1.950 sending_bw: 1.950
+flow 2 phase: 4 max_bw: 8.628 sending_bw: 8.628
+flow 3 phase: 6 max_bw: 8.634 sending_bw: 8.634
+t= 0018 sending: f1: 1.950 f2: 8.628 f3: 8.634
+t= 0018 receive: f1: 1.759 f2: 8.157 f3: 8.241
+t= 0018  max_bw: f1: 1.950 f2: 8.628 f3: 8.634
+
+flow 1 phase: 3 max_bw: 1.950 sending_bw: 1.950
+flow 2 phase: 5 max_bw: 8.628 sending_bw: 8.628
+flow 3 phase: 7 max_bw: 8.634 sending_bw: 8.634
+t= 0019 sending: f1: 1.950 f2: 8.628 f3: 8.634
+t= 0019 receive: f1: 1.759 f2: 8.157 f3: 8.241
+t= 0019  max_bw: f1: 1.950 f2: 8.551 f3: 8.611
+
+flow 1 phase: 4 max_bw: 1.950 sending_bw: 1.950
+flow 2 phase: 6 max_bw: 8.551 sending_bw: 8.551
+flow 3 phase: 0 max_bw: 8.611 sending_bw: 10.764
+t= 0020 sending: f1: 1.950 f2: 8.551 f3: 10.764
+t= 0020 receive: f1: 1.471 f2: 8.143 f3: 8.529
+t= 0020  max_bw: f1: 1.950 f2: 8.551 f3: 8.611
+
+flow 1 phase: 5 max_bw: 1.950 sending_bw: 1.950
+flow 2 phase: 7 max_bw: 8.551 sending_bw: 8.551
+flow 3 phase: 1 max_bw: 8.611 sending_bw: 6.458
+t= 0021 sending: f1: 1.950 f2: 8.551 f3: 6.458
+t= 0021 receive: f1: 1.950 f2: 8.143 f3: 6.458
+t= 0021  max_bw: f1: 1.950 f2: 8.551 f3: 8.611
+
+flow 1 phase: 6 max_bw: 1.950 sending_bw: 1.950
+flow 2 phase: 0 max_bw: 8.551 sending_bw: 10.688
+flow 3 phase: 2 max_bw: 8.611 sending_bw: 8.611
+t= 0022 sending: f1: 1.950 f2: 10.688 f3: 8.611
+t= 0022 receive: f1: 1.519 f2: 8.457 f3: 8.481
+t= 0022  max_bw: f1: 1.950 f2: 8.551 f3: 8.568
+
+flow 1 phase: 7 max_bw: 1.950 sending_bw: 1.950
+flow 2 phase: 1 max_bw: 8.551 sending_bw: 6.413
+flow 3 phase: 3 max_bw: 8.568 sending_bw: 8.568
+t= 0023 sending: f1: 1.950 f2: 6.413 f3: 8.568
+t= 0023 receive: f1: 1.950 f2: 6.413 f3: 7.861
+t= 0023  max_bw: f1: 1.950 f2: 8.551 f3: 8.568
+
+flow 1 phase: 0 max_bw: 1.950 sending_bw: 2.437
+flow 2 phase: 2 max_bw: 8.551 sending_bw: 8.551
+flow 3 phase: 4 max_bw: 8.568 sending_bw: 8.568
+t= 0024 sending: f1: 2.437 f2: 8.551 f3: 8.568
+t= 0024 receive: f1: 2.056 f2: 7.782 f3: 7.944
+t= 0024  max_bw: f1: 2.056 f2: 8.551 f3: 8.563
+
+flow 1 phase: 1 max_bw: 2.056 sending_bw: 1.542
+flow 2 phase: 3 max_bw: 8.551 sending_bw: 8.551
+flow 3 phase: 5 max_bw: 8.563 sending_bw: 8.563
+t= 0025 sending: f1: 1.542 f2: 8.551 f3: 8.563
+t= 0025 receive: f1: 1.514 f2: 8.472 f3: 8.486
+t= 0025  max_bw: f1: 2.056 f2: 8.551 f3: 8.563
+
+flow 1 phase: 2 max_bw: 2.056 sending_bw: 2.056
+flow 2 phase: 4 max_bw: 8.551 sending_bw: 8.551
+flow 3 phase: 6 max_bw: 8.563 sending_bw: 8.563
+t= 0026 sending: f1: 2.056 f2: 8.551 f3: 8.563
+t= 0026 receive: f1: 1.846 f2: 8.061 f3: 8.154
+t= 0026  max_bw: f1: 2.056 f2: 8.551 f3: 8.563
+
+flow 1 phase: 3 max_bw: 2.056 sending_bw: 2.056
+flow 2 phase: 5 max_bw: 8.551 sending_bw: 8.551
+flow 3 phase: 7 max_bw: 8.563 sending_bw: 8.563
+t= 0027 sending: f1: 2.056 f2: 8.551 f3: 8.563
+t= 0027 receive: f1: 1.846 f2: 8.061 f3: 8.154
+t= 0027  max_bw: f1: 2.056 f2: 8.472 f3: 8.529
+
+flow 1 phase: 4 max_bw: 2.056 sending_bw: 2.056
+flow 2 phase: 6 max_bw: 8.472 sending_bw: 8.472
+flow 3 phase: 0 max_bw: 8.529 sending_bw: 10.661
+t= 0028 sending: f1: 2.056 f2: 8.472 f3: 10.661
+t= 0028 receive: f1: 1.548 f2: 8.047 f3: 8.452
+t= 0028  max_bw: f1: 2.056 f2: 8.472 f3: 8.529
+
+flow 1 phase: 5 max_bw: 2.056 sending_bw: 2.056
+flow 2 phase: 7 max_bw: 8.472 sending_bw: 8.472
+flow 3 phase: 1 max_bw: 8.529 sending_bw: 6.397
+t= 0029 sending: f1: 2.056 f2: 8.472 f3: 6.397
+t= 0029 receive: f1: 2.056 f2: 8.047 f3: 6.397
+t= 0029  max_bw: f1: 2.056 f2: 8.472 f3: 8.529
+
+flow 1 phase: 6 max_bw: 2.056 sending_bw: 2.056
+flow 2 phase: 0 max_bw: 8.472 sending_bw: 10.590
+flow 3 phase: 2 max_bw: 8.529 sending_bw: 8.529
+t= 0030 sending: f1: 2.056 f2: 10.590 f3: 8.529
+t= 0030 receive: f1: 1.601 f2: 8.374 f3: 8.399
+t= 0030  max_bw: f1: 2.056 f2: 8.472 f3: 8.486
+
+flow 1 phase: 7 max_bw: 2.056 sending_bw: 2.056
+flow 2 phase: 1 max_bw: 8.472 sending_bw: 6.354
+flow 3 phase: 3 max_bw: 8.486 sending_bw: 8.486
+t= 0031 sending: f1: 2.056 f2: 6.354 f3: 8.486
+t= 0031 receive: f1: 2.056 f2: 6.354 f3: 7.763
+t= 0031  max_bw: f1: 2.056 f2: 8.472 f3: 8.486
+
+flow 1 phase: 0 max_bw: 2.056 sending_bw: 2.571
+flow 2 phase: 2 max_bw: 8.472 sending_bw: 8.472
+flow 3 phase: 4 max_bw: 8.486 sending_bw: 8.486
+t= 0032 sending: f1: 2.571 f2: 8.472 f3: 8.486
+t= 0032 receive: f1: 2.153 f2: 7.672 f3: 7.847
+t= 0032  max_bw: f1: 2.153 f2: 8.472 f3: 8.486
+
+flow 1 phase: 1 max_bw: 2.153 sending_bw: 1.615
+flow 2 phase: 3 max_bw: 8.472 sending_bw: 8.472
+flow 3 phase: 5 max_bw: 8.486 sending_bw: 8.486
+t= 0033 sending: f1: 1.615 f2: 8.472 f3: 8.486
+t= 0033 receive: f1: 1.587 f2: 8.399 f3: 8.413
+t= 0033  max_bw: f1: 2.153 f2: 8.472 f3: 8.486
+
+flow 1 phase: 2 max_bw: 2.153 sending_bw: 2.153
+flow 2 phase: 4 max_bw: 8.472 sending_bw: 8.472
+flow 3 phase: 6 max_bw: 8.486 sending_bw: 8.486
+t= 0034 sending: f1: 2.153 f2: 8.472 f3: 8.486
+t= 0034 receive: f1: 1.928 f2: 7.974 f3: 8.072
+t= 0034  max_bw: f1: 2.153 f2: 8.472 f3: 8.486
+
+flow 1 phase: 3 max_bw: 2.153 sending_bw: 2.153
+flow 2 phase: 5 max_bw: 8.472 sending_bw: 8.472
+flow 3 phase: 7 max_bw: 8.486 sending_bw: 8.486
+t= 0035 sending: f1: 2.153 f2: 8.472 f3: 8.486
+t= 0035 receive: f1: 1.928 f2: 7.974 f3: 8.072
+t= 0035  max_bw: f1: 2.153 f2: 8.399 f3: 8.452
+
+flow 1 phase: 4 max_bw: 2.153 sending_bw: 2.153
+flow 2 phase: 6 max_bw: 8.399 sending_bw: 8.399
+flow 3 phase: 0 max_bw: 8.452 sending_bw: 10.564
+t= 0036 sending: f1: 2.153 f2: 8.399 f3: 10.564
+t= 0036 receive: f1: 1.619 f2: 7.960 f3: 8.381
+t= 0036  max_bw: f1: 2.153 f2: 8.399 f3: 8.452
+
+flow 1 phase: 5 max_bw: 2.153 sending_bw: 2.153
+flow 2 phase: 7 max_bw: 8.399 sending_bw: 8.399
+flow 3 phase: 1 max_bw: 8.452 sending_bw: 6.339
+t= 0037 sending: f1: 2.153 f2: 8.399 f3: 6.339
+t= 0037 receive: f1: 2.153 f2: 7.960 f3: 6.339
+t= 0037  max_bw: f1: 2.153 f2: 8.399 f3: 8.452
+
+flow 1 phase: 6 max_bw: 2.153 sending_bw: 2.153
+flow 2 phase: 0 max_bw: 8.399 sending_bw: 10.499
+flow 3 phase: 2 max_bw: 8.452 sending_bw: 8.452
+t= 0038 sending: f1: 2.153 f2: 10.499 f3: 8.452
+t= 0038 receive: f1: 1.676 f2: 8.298 f3: 8.324
+t= 0038  max_bw: f1: 2.153 f2: 8.399 f3: 8.413
+
+flow 1 phase: 7 max_bw: 2.153 sending_bw: 2.153
+flow 2 phase: 1 max_bw: 8.399 sending_bw: 6.299
+flow 3 phase: 3 max_bw: 8.413 sending_bw: 8.413
+t= 0039 sending: f1: 2.153 f2: 6.299 f3: 8.413
+t= 0039 receive: f1: 2.153 f2: 6.299 f3: 7.676
+t= 0039  max_bw: f1: 2.153 f2: 8.399 f3: 8.413
+
+flow 1 phase: 0 max_bw: 2.153 sending_bw: 2.691
+flow 2 phase: 2 max_bw: 8.399 sending_bw: 8.399
+flow 3 phase: 4 max_bw: 8.413 sending_bw: 8.413
+t= 0040 sending: f1: 2.691 f2: 8.399 f3: 8.413
+t= 0040 receive: f1: 2.239 f2: 7.574 f3: 7.761
+t= 0040  max_bw: f1: 2.239 f2: 8.399 f3: 8.413
+
+flow 1 phase: 1 max_bw: 2.239 sending_bw: 1.679
+flow 2 phase: 3 max_bw: 8.399 sending_bw: 8.399
+flow 3 phase: 5 max_bw: 8.413 sending_bw: 8.413
+t= 0041 sending: f1: 1.679 f2: 8.399 f3: 8.413
+t= 0041 receive: f1: 1.653 f2: 8.334 f3: 8.347
+t= 0041  max_bw: f1: 2.239 f2: 8.399 f3: 8.413
+
+flow 1 phase: 2 max_bw: 2.239 sending_bw: 2.239
+flow 2 phase: 4 max_bw: 8.399 sending_bw: 8.399
+flow 3 phase: 6 max_bw: 8.413 sending_bw: 8.413
+t= 0042 sending: f1: 2.239 f2: 8.399 f3: 8.413
+t= 0042 receive: f1: 2.001 f2: 7.896 f3: 7.999
+t= 0042  max_bw: f1: 2.239 f2: 8.399 f3: 8.413
+
+flow 1 phase: 3 max_bw: 2.239 sending_bw: 2.239
+flow 2 phase: 5 max_bw: 8.399 sending_bw: 8.399
+flow 3 phase: 7 max_bw: 8.413 sending_bw: 8.413
+t= 0043 sending: f1: 2.239 f2: 8.399 f3: 8.413
+t= 0043 receive: f1: 2.001 f2: 7.896 f3: 7.999
+t= 0043  max_bw: f1: 2.239 f2: 8.334 f3: 8.381
+
+flow 1 phase: 4 max_bw: 2.239 sending_bw: 2.239
+flow 2 phase: 6 max_bw: 8.334 sending_bw: 8.334
+flow 3 phase: 0 max_bw: 8.381 sending_bw: 10.477
+t= 0044 sending: f1: 2.239 f2: 8.334 f3: 10.477
+t= 0044 receive: f1: 1.681 f2: 7.883 f3: 8.319
+t= 0044  max_bw: f1: 2.239 f2: 8.334 f3: 8.381
+
+flow 1 phase: 5 max_bw: 2.239 sending_bw: 2.239
+flow 2 phase: 7 max_bw: 8.334 sending_bw: 8.334
+flow 3 phase: 1 max_bw: 8.381 sending_bw: 6.286
+t= 0045 sending: f1: 2.239 f2: 8.334 f3: 6.286
+t= 0045 receive: f1: 2.239 f2: 7.883 f3: 6.286
+t= 0045  max_bw: f1: 2.239 f2: 8.334 f3: 8.381
+
+flow 1 phase: 6 max_bw: 2.239 sending_bw: 2.239
+flow 2 phase: 0 max_bw: 8.334 sending_bw: 10.418
+flow 3 phase: 2 max_bw: 8.381 sending_bw: 8.381
+t= 0046 sending: f1: 2.239 f2: 10.418 f3: 8.381
+t= 0046 receive: f1: 1.743 f2: 8.231 f3: 8.257
+t= 0046  max_bw: f1: 2.239 f2: 8.334 f3: 8.347
+
+flow 1 phase: 7 max_bw: 2.239 sending_bw: 2.239
+flow 2 phase: 1 max_bw: 8.334 sending_bw: 6.251
+flow 3 phase: 3 max_bw: 8.347 sending_bw: 8.347
+t= 0047 sending: f1: 2.239 f2: 6.251 f3: 8.347
+t= 0047 receive: f1: 2.239 f2: 6.251 f3: 7.599
+t= 0047  max_bw: f1: 2.239 f2: 8.334 f3: 8.347
+
+flow 1 phase: 0 max_bw: 2.239 sending_bw: 2.798
+flow 2 phase: 2 max_bw: 8.334 sending_bw: 8.334
+flow 3 phase: 4 max_bw: 8.347 sending_bw: 8.347
+t= 0048 sending: f1: 2.798 f2: 8.334 f3: 8.347
+t= 0048 receive: f1: 2.314 f2: 7.486 f3: 7.686
+t= 0048  max_bw: f1: 2.314 f2: 8.334 f3: 8.347
+
+flow 1 phase: 1 max_bw: 2.314 sending_bw: 1.736
+flow 2 phase: 3 max_bw: 8.334 sending_bw: 8.334
+flow 3 phase: 5 max_bw: 8.347 sending_bw: 8.347
+t= 0049 sending: f1: 1.736 f2: 8.334 f3: 8.347
+t= 0049 receive: f1: 1.712 f2: 8.276 f3: 8.288
+t= 0049  max_bw: f1: 2.314 f2: 8.334 f3: 8.347
+
+flow 1 phase: 2 max_bw: 2.314 sending_bw: 2.314
+flow 2 phase: 4 max_bw: 8.334 sending_bw: 8.334
+flow 3 phase: 6 max_bw: 8.347 sending_bw: 8.347
+t= 0050 sending: f1: 2.314 f2: 8.334 f3: 8.347
+t= 0050 receive: f1: 2.066 f2: 7.827 f3: 7.934
+t= 0050  max_bw: f1: 2.314 f2: 8.334 f3: 8.347
+
+flow 1 phase: 3 max_bw: 2.314 sending_bw: 2.314
+flow 2 phase: 5 max_bw: 8.334 sending_bw: 8.334
+flow 3 phase: 7 max_bw: 8.347 sending_bw: 8.347
+t= 0051 sending: f1: 2.314 f2: 8.334 f3: 8.347
+t= 0051 receive: f1: 2.066 f2: 7.827 f3: 7.934
+t= 0051  max_bw: f1: 2.314 f2: 8.276 f3: 8.319
+
+flow 1 phase: 4 max_bw: 2.314 sending_bw: 2.314
+flow 2 phase: 6 max_bw: 8.276 sending_bw: 8.276
+flow 3 phase: 0 max_bw: 8.319 sending_bw: 10.399
+t= 0052 sending: f1: 2.314 f2: 8.276 f3: 10.399
+t= 0052 receive: f1: 1.737 f2: 7.815 f3: 8.263
+t= 0052  max_bw: f1: 2.314 f2: 8.276 f3: 8.319
+
+flow 1 phase: 5 max_bw: 2.314 sending_bw: 2.314
+flow 2 phase: 7 max_bw: 8.276 sending_bw: 8.276
+flow 3 phase: 1 max_bw: 8.319 sending_bw: 6.239
+t= 0053 sending: f1: 2.314 f2: 8.276 f3: 6.239
+t= 0053 receive: f1: 2.314 f2: 7.815 f3: 6.239
+t= 0053  max_bw: f1: 2.314 f2: 8.276 f3: 8.319
+
+flow 1 phase: 6 max_bw: 2.314 sending_bw: 2.314
+flow 2 phase: 0 max_bw: 8.276 sending_bw: 10.345
+flow 3 phase: 2 max_bw: 8.319 sending_bw: 8.319
+t= 0054 sending: f1: 2.314 f2: 10.345 f3: 8.319
+t= 0054 receive: f1: 1.802 f2: 8.172 f3: 8.198
+t= 0054  max_bw: f1: 2.314 f2: 8.276 f3: 8.288
+
+flow 1 phase: 7 max_bw: 2.314 sending_bw: 2.314
+flow 2 phase: 1 max_bw: 8.276 sending_bw: 6.207
+flow 3 phase: 3 max_bw: 8.288 sending_bw: 8.288
+t= 0055 sending: f1: 2.314 f2: 6.207 f3: 8.288
+t= 0055 receive: f1: 2.314 f2: 6.207 f3: 7.532
+t= 0055  max_bw: f1: 2.314 f2: 8.276 f3: 8.288
+
+flow 1 phase: 0 max_bw: 2.314 sending_bw: 2.893
+flow 2 phase: 2 max_bw: 8.276 sending_bw: 8.276
+flow 3 phase: 4 max_bw: 8.288 sending_bw: 8.288
+t= 0056 sending: f1: 2.893 f2: 8.276 f3: 8.288
+t= 0056 receive: f1: 2.381 f2: 7.410 f3: 7.619
+t= 0056  max_bw: f1: 2.381 f2: 8.276 f3: 8.288
+
+flow 1 phase: 1 max_bw: 2.381 sending_bw: 1.786
+flow 2 phase: 3 max_bw: 8.276 sending_bw: 8.276
+flow 3 phase: 5 max_bw: 8.288 sending_bw: 8.288
+t= 0057 sending: f1: 1.786 f2: 8.276 f3: 8.288
+t= 0057 receive: f1: 1.764 f2: 8.225 f3: 8.236
+t= 0057  max_bw: f1: 2.381 f2: 8.276 f3: 8.288
+
+flow 1 phase: 2 max_bw: 2.381 sending_bw: 2.381
+flow 2 phase: 4 max_bw: 8.276 sending_bw: 8.276
+flow 3 phase: 6 max_bw: 8.288 sending_bw: 8.288
+t= 0058 sending: f1: 2.381 f2: 8.276 f3: 8.288
+t= 0058 receive: f1: 2.123 f2: 7.766 f3: 7.877
+t= 0058  max_bw: f1: 2.381 f2: 8.276 f3: 8.288
+
+flow 1 phase: 3 max_bw: 2.381 sending_bw: 2.381
+flow 2 phase: 5 max_bw: 8.276 sending_bw: 8.276
+flow 3 phase: 7 max_bw: 8.288 sending_bw: 8.288
+t= 0059 sending: f1: 2.381 f2: 8.276 f3: 8.288
+t= 0059 receive: f1: 2.123 f2: 7.766 f3: 7.877
+t= 0059  max_bw: f1: 2.381 f2: 8.225 f3: 8.263
+
+flow 1 phase: 4 max_bw: 2.381 sending_bw: 2.381
+flow 2 phase: 6 max_bw: 8.225 sending_bw: 8.225
+flow 3 phase: 0 max_bw: 8.263 sending_bw: 10.329
+t= 0060 sending: f1: 2.381 f2: 8.225 f3: 10.329
+t= 0060 receive: f1: 1.785 f2: 7.755 f3: 8.215
+t= 0060  max_bw: f1: 2.381 f2: 8.225 f3: 8.263
+
+flow 1 phase: 5 max_bw: 2.381 sending_bw: 2.381
+flow 2 phase: 7 max_bw: 8.225 sending_bw: 8.225
+flow 3 phase: 1 max_bw: 8.263 sending_bw: 6.198
+t= 0061 sending: f1: 2.381 f2: 8.225 f3: 6.198
+t= 0061 receive: f1: 2.381 f2: 7.755 f3: 6.198
+t= 0061  max_bw: f1: 2.381 f2: 8.225 f3: 8.263
+
+flow 1 phase: 6 max_bw: 2.381 sending_bw: 2.381
+flow 2 phase: 0 max_bw: 8.225 sending_bw: 10.282
+flow 3 phase: 2 max_bw: 8.263 sending_bw: 8.263
+t= 0062 sending: f1: 2.381 f2: 10.282 f3: 8.263
+t= 0062 receive: f1: 1.854 f2: 8.120 f3: 8.146
+t= 0062  max_bw: f1: 2.381 f2: 8.225 f3: 8.236
+
+flow 1 phase: 7 max_bw: 2.381 sending_bw: 2.381
+flow 2 phase: 1 max_bw: 8.225 sending_bw: 6.169
+flow 3 phase: 3 max_bw: 8.236 sending_bw: 8.236
+t= 0063 sending: f1: 2.381 f2: 6.169 f3: 8.236
+t= 0063 receive: f1: 2.381 f2: 6.169 f3: 7.473
+t= 0063  max_bw: f1: 2.381 f2: 8.225 f3: 8.236
+
+flow 1 phase: 0 max_bw: 2.381 sending_bw: 2.976
+flow 2 phase: 2 max_bw: 8.225 sending_bw: 8.225
+flow 3 phase: 4 max_bw: 8.236 sending_bw: 8.236
+t= 0064 sending: f1: 2.976 f2: 8.225 f3: 8.236
+t= 0064 receive: f1: 2.439 f2: 7.343 f3: 7.561
+t= 0064  max_bw: f1: 2.439 f2: 8.225 f3: 8.236
+
+flow 1 phase: 1 max_bw: 2.439 sending_bw: 1.829
+flow 2 phase: 3 max_bw: 8.225 sending_bw: 8.225
+flow 3 phase: 5 max_bw: 8.236 sending_bw: 8.236
+t= 0065 sending: f1: 1.829 f2: 8.225 f3: 8.236
+t= 0065 receive: f1: 1.809 f2: 8.181 f3: 8.191
+t= 0065  max_bw: f1: 2.439 f2: 8.225 f3: 8.236
+
+flow 1 phase: 2 max_bw: 2.439 sending_bw: 2.439
+flow 2 phase: 4 max_bw: 8.225 sending_bw: 8.225
+flow 3 phase: 6 max_bw: 8.236 sending_bw: 8.236
+t= 0066 sending: f1: 2.439 f2: 8.225 f3: 8.236
+t= 0066 receive: f1: 2.173 f2: 7.713 f3: 7.827
+t= 0066  max_bw: f1: 2.439 f2: 8.225 f3: 8.236
+
+flow 1 phase: 3 max_bw: 2.439 sending_bw: 2.439
+flow 2 phase: 5 max_bw: 8.225 sending_bw: 8.225
+flow 3 phase: 7 max_bw: 8.236 sending_bw: 8.236
+t= 0067 sending: f1: 2.439 f2: 8.225 f3: 8.236
+t= 0067 receive: f1: 2.173 f2: 7.713 f3: 7.827
+t= 0067  max_bw: f1: 2.439 f2: 8.181 f3: 8.215
+
+flow 1 phase: 4 max_bw: 2.439 sending_bw: 2.439
+flow 2 phase: 6 max_bw: 8.181 sending_bw: 8.181
+flow 3 phase: 0 max_bw: 8.215 sending_bw: 10.268
+t= 0068 sending: f1: 2.439 f2: 8.181 f3: 10.268
+t= 0068 receive: f1: 1.828 f2: 7.703 f3: 8.172
+t= 0068  max_bw: f1: 2.439 f2: 8.181 f3: 8.215
+
+flow 1 phase: 5 max_bw: 2.439 sending_bw: 2.439
+flow 2 phase: 7 max_bw: 8.181 sending_bw: 8.181
+flow 3 phase: 1 max_bw: 8.215 sending_bw: 6.161
+t= 0069 sending: f1: 2.439 f2: 8.181 f3: 6.161
+t= 0069 receive: f1: 2.439 f2: 7.703 f3: 6.161
+t= 0069  max_bw: f1: 2.439 f2: 8.181 f3: 8.215
+
+flow 1 phase: 6 max_bw: 2.439 sending_bw: 2.439
+flow 2 phase: 0 max_bw: 8.181 sending_bw: 10.226
+flow 3 phase: 2 max_bw: 8.215 sending_bw: 8.215
+t= 0070 sending: f1: 2.439 f2: 10.226 f3: 8.215
+t= 0070 receive: f1: 1.899 f2: 8.074 f3: 8.101
+t= 0070  max_bw: f1: 2.439 f2: 8.181 f3: 8.191
+
+flow 1 phase: 7 max_bw: 2.439 sending_bw: 2.439
+flow 2 phase: 1 max_bw: 8.181 sending_bw: 6.135
+flow 3 phase: 3 max_bw: 8.191 sending_bw: 8.191
+t= 0071 sending: f1: 2.439 f2: 6.135 f3: 8.191
+t= 0071 receive: f1: 2.439 f2: 6.135 f3: 7.422
+t= 0071  max_bw: f1: 2.439 f2: 8.181 f3: 8.191
+
+flow 1 phase: 0 max_bw: 2.439 sending_bw: 3.049
+flow 2 phase: 2 max_bw: 8.181 sending_bw: 8.181
+flow 3 phase: 4 max_bw: 8.191 sending_bw: 8.191
+t= 0072 sending: f1: 3.049 f2: 8.181 f3: 8.191
+t= 0072 receive: f1: 2.490 f2: 7.285 f3: 7.510
+t= 0072  max_bw: f1: 2.490 f2: 8.181 f3: 8.191
+
+flow 1 phase: 1 max_bw: 2.490 sending_bw: 1.867
+flow 2 phase: 3 max_bw: 8.181 sending_bw: 8.181
+flow 3 phase: 5 max_bw: 8.191 sending_bw: 8.191
+t= 0073 sending: f1: 1.867 f2: 8.181 f3: 8.191
+t= 0073 receive: f1: 1.849 f2: 8.142 f3: 8.151
+t= 0073  max_bw: f1: 2.490 f2: 8.181 f3: 8.191
+
+flow 1 phase: 2 max_bw: 2.490 sending_bw: 2.490
+flow 2 phase: 4 max_bw: 8.181 sending_bw: 8.181
+flow 3 phase: 6 max_bw: 8.191 sending_bw: 8.191
+t= 0074 sending: f1: 2.490 f2: 8.181 f3: 8.191
+t= 0074 receive: f1: 2.217 f2: 7.667 f3: 7.783
+t= 0074  max_bw: f1: 2.490 f2: 8.181 f3: 8.191
+
+flow 1 phase: 3 max_bw: 2.490 sending_bw: 2.490
+flow 2 phase: 5 max_bw: 8.181 sending_bw: 8.181
+flow 3 phase: 7 max_bw: 8.191 sending_bw: 8.191
+t= 0075 sending: f1: 2.490 f2: 8.181 f3: 8.191
+t= 0075 receive: f1: 2.217 f2: 7.667 f3: 7.783
+t= 0075  max_bw: f1: 2.490 f2: 8.142 f3: 8.172
+
+flow 1 phase: 4 max_bw: 2.490 sending_bw: 2.490
+flow 2 phase: 6 max_bw: 8.142 sending_bw: 8.142
+flow 3 phase: 0 max_bw: 8.172 sending_bw: 10.215
+t= 0076 sending: f1: 2.490 f2: 8.142 f3: 10.215
+t= 0076 receive: f1: 1.865 f2: 7.658 f3: 8.135
+t= 0076  max_bw: f1: 2.490 f2: 8.142 f3: 8.172
+
+flow 1 phase: 5 max_bw: 2.490 sending_bw: 2.490
+flow 2 phase: 7 max_bw: 8.142 sending_bw: 8.142
+flow 3 phase: 1 max_bw: 8.172 sending_bw: 6.129
+t= 0077 sending: f1: 2.490 f2: 8.142 f3: 6.129
+t= 0077 receive: f1: 2.490 f2: 7.658 f3: 6.129
+t= 0077  max_bw: f1: 2.490 f2: 8.142 f3: 8.172
+
+flow 1 phase: 6 max_bw: 2.490 sending_bw: 2.490
+flow 2 phase: 0 max_bw: 8.142 sending_bw: 10.177
+flow 3 phase: 2 max_bw: 8.172 sending_bw: 8.172
+t= 0078 sending: f1: 2.490 f2: 10.177 f3: 8.172
+t= 0078 receive: f1: 1.939 f2: 8.035 f3: 8.061
+t= 0078  max_bw: f1: 2.490 f2: 8.142 f3: 8.151
+
+flow 1 phase: 7 max_bw: 2.490 sending_bw: 2.490
+flow 2 phase: 1 max_bw: 8.142 sending_bw: 6.106
+flow 3 phase: 3 max_bw: 8.151 sending_bw: 8.151
+t= 0079 sending: f1: 2.490 f2: 6.106 f3: 8.151
+t= 0079 receive: f1: 2.490 f2: 6.106 f3: 7.378
+t= 0079  max_bw: f1: 2.490 f2: 8.142 f3: 8.151
+
+flow 1 phase: 0 max_bw: 2.490 sending_bw: 3.112
+flow 2 phase: 2 max_bw: 8.142 sending_bw: 8.142
+flow 3 phase: 4 max_bw: 8.151 sending_bw: 8.151
+t= 0080 sending: f1: 3.112 f2: 8.142 f3: 8.151
+t= 0080 receive: f1: 2.533 f2: 7.235 f3: 7.467
+t= 0080  max_bw: f1: 2.533 f2: 8.142 f3: 8.151
+
+flow 1 phase: 1 max_bw: 2.533 sending_bw: 1.900
+flow 2 phase: 3 max_bw: 8.142 sending_bw: 8.142
+flow 3 phase: 5 max_bw: 8.151 sending_bw: 8.151
+t= 0081 sending: f1: 1.900 f2: 8.142 f3: 8.151
+t= 0081 receive: f1: 1.884 f2: 8.108 f3: 8.116
+t= 0081  max_bw: f1: 2.533 f2: 8.142 f3: 8.151
+
+flow 1 phase: 2 max_bw: 2.533 sending_bw: 2.533
+flow 2 phase: 4 max_bw: 8.142 sending_bw: 8.142
+flow 3 phase: 6 max_bw: 8.151 sending_bw: 8.151
+t= 0082 sending: f1: 2.533 f2: 8.142 f3: 8.151
+t= 0082 receive: f1: 2.255 f2: 7.627 f3: 7.745
+t= 0082  max_bw: f1: 2.533 f2: 8.142 f3: 8.151
+
+flow 1 phase: 3 max_bw: 2.533 sending_bw: 2.533
+flow 2 phase: 5 max_bw: 8.142 sending_bw: 8.142
+flow 3 phase: 7 max_bw: 8.151 sending_bw: 8.151
+t= 0083 sending: f1: 2.533 f2: 8.142 f3: 8.151
+t= 0083 receive: f1: 2.255 f2: 7.627 f3: 7.745
+t= 0083  max_bw: f1: 2.533 f2: 8.108 f3: 8.135
+
+flow 1 phase: 4 max_bw: 2.533 sending_bw: 2.533
+flow 2 phase: 6 max_bw: 8.108 sending_bw: 8.108
+flow 3 phase: 0 max_bw: 8.135 sending_bw: 10.169
+t= 0084 sending: f1: 2.533 f2: 8.108 f3: 10.169
+t= 0084 receive: f1: 1.897 f2: 7.619 f3: 8.103
+t= 0084  max_bw: f1: 2.533 f2: 8.108 f3: 8.135
+
+flow 1 phase: 5 max_bw: 2.533 sending_bw: 2.533
+flow 2 phase: 7 max_bw: 8.108 sending_bw: 8.108
+flow 3 phase: 1 max_bw: 8.135 sending_bw: 6.101
+t= 0085 sending: f1: 2.533 f2: 8.108 f3: 6.101
+t= 0085 receive: f1: 2.533 f2: 7.619 f3: 6.101
+t= 0085  max_bw: f1: 2.533 f2: 8.108 f3: 8.135
+
+flow 1 phase: 6 max_bw: 2.533 sending_bw: 2.533
+flow 2 phase: 0 max_bw: 8.108 sending_bw: 10.135
+flow 3 phase: 2 max_bw: 8.135 sending_bw: 8.135
+t= 0086 sending: f1: 2.533 f2: 10.135 f3: 8.135
+t= 0086 receive: f1: 1.973 f2: 8.000 f3: 8.027
+t= 0086  max_bw: f1: 2.533 f2: 8.108 f3: 8.116
+
+flow 1 phase: 7 max_bw: 2.533 sending_bw: 2.533
+flow 2 phase: 1 max_bw: 8.108 sending_bw: 6.081
+flow 3 phase: 3 max_bw: 8.116 sending_bw: 8.116
+t= 0087 sending: f1: 2.533 f2: 6.081 f3: 8.116
+t= 0087 receive: f1: 2.533 f2: 6.081 f3: 7.340
+t= 0087  max_bw: f1: 2.533 f2: 8.108 f3: 8.116
+
+flow 1 phase: 0 max_bw: 2.533 sending_bw: 3.166
+flow 2 phase: 2 max_bw: 8.108 sending_bw: 8.108
+flow 3 phase: 4 max_bw: 8.116 sending_bw: 8.116
+t= 0088 sending: f1: 3.166 f2: 8.108 f3: 8.116
+t= 0088 receive: f1: 2.571 f2: 7.191 f3: 7.429
+t= 0088  max_bw: f1: 2.571 f2: 8.108 f3: 8.116
+
+flow 1 phase: 1 max_bw: 2.571 sending_bw: 1.928
+flow 2 phase: 3 max_bw: 8.108 sending_bw: 8.108
+flow 3 phase: 5 max_bw: 8.116 sending_bw: 8.116
+t= 0089 sending: f1: 1.928 f2: 8.108 f3: 8.116
+t= 0089 receive: f1: 1.914 f2: 8.079 f3: 8.086
+t= 0089  max_bw: f1: 2.571 f2: 8.108 f3: 8.116
+
+flow 1 phase: 2 max_bw: 2.571 sending_bw: 2.571
+flow 2 phase: 4 max_bw: 8.108 sending_bw: 8.108
+flow 3 phase: 6 max_bw: 8.116 sending_bw: 8.116
+t= 0090 sending: f1: 2.571 f2: 8.108 f3: 8.116
+t= 0090 receive: f1: 2.288 f2: 7.593 f3: 7.712
+t= 0090  max_bw: f1: 2.571 f2: 8.108 f3: 8.116
+
+flow 1 phase: 3 max_bw: 2.571 sending_bw: 2.571
+flow 2 phase: 5 max_bw: 8.108 sending_bw: 8.108
+flow 3 phase: 7 max_bw: 8.116 sending_bw: 8.116
+t= 0091 sending: f1: 2.571 f2: 8.108 f3: 8.116
+t= 0091 receive: f1: 2.288 f2: 7.593 f3: 7.712
+t= 0091  max_bw: f1: 2.571 f2: 8.079 f3: 8.103
+
+flow 1 phase: 4 max_bw: 2.571 sending_bw: 2.571
+flow 2 phase: 6 max_bw: 8.079 sending_bw: 8.079
+flow 3 phase: 0 max_bw: 8.103 sending_bw: 10.129
+t= 0092 sending: f1: 2.571 f2: 8.079 f3: 10.129
+t= 0092 receive: f1: 1.925 f2: 7.586 f3: 8.075
+t= 0092  max_bw: f1: 2.571 f2: 8.079 f3: 8.103
+
+flow 1 phase: 5 max_bw: 2.571 sending_bw: 2.571
+flow 2 phase: 7 max_bw: 8.079 sending_bw: 8.079
+flow 3 phase: 1 max_bw: 8.103 sending_bw: 6.077
+t= 0093 sending: f1: 2.571 f2: 8.079 f3: 6.077
+t= 0093 receive: f1: 2.571 f2: 7.586 f3: 6.077
+t= 0093  max_bw: f1: 2.571 f2: 8.079 f3: 8.103
+
+flow 1 phase: 6 max_bw: 2.571 sending_bw: 2.571
+flow 2 phase: 0 max_bw: 8.079 sending_bw: 10.099
+flow 3 phase: 2 max_bw: 8.103 sending_bw: 8.103
+t= 0094 sending: f1: 2.571 f2: 10.099 f3: 8.103
+t= 0094 receive: f1: 2.003 f2: 7.971 f3: 7.997
+t= 0094  max_bw: f1: 2.571 f2: 8.079 f3: 8.086
+
+flow 1 phase: 7 max_bw: 2.571 sending_bw: 2.571
+flow 2 phase: 1 max_bw: 8.079 sending_bw: 6.059
+flow 3 phase: 3 max_bw: 8.086 sending_bw: 8.086
+t= 0095 sending: f1: 2.571 f2: 6.059 f3: 8.086
+t= 0095 receive: f1: 2.571 f2: 6.059 f3: 7.308
+t= 0095  max_bw: f1: 2.571 f2: 8.079 f3: 8.086
+
+flow 1 phase: 0 max_bw: 2.571 sending_bw: 3.214
+flow 2 phase: 2 max_bw: 8.079 sending_bw: 8.079
+flow 3 phase: 4 max_bw: 8.086 sending_bw: 8.086
+t= 0096 sending: f1: 3.214 f2: 8.079 f3: 8.086
+t= 0096 receive: f1: 2.603 f2: 7.154 f3: 7.397
+t= 0096  max_bw: f1: 2.603 f2: 8.079 f3: 8.086
+
+flow 1 phase: 1 max_bw: 2.603 sending_bw: 1.952
+flow 2 phase: 3 max_bw: 8.079 sending_bw: 8.079
+flow 3 phase: 5 max_bw: 8.086 sending_bw: 8.086
+t= 0097 sending: f1: 1.952 f2: 8.079 f3: 8.086
+t= 0097 receive: f1: 1.940 f2: 8.054 f3: 8.060
+t= 0097  max_bw: f1: 2.603 f2: 8.079 f3: 8.086
+
+flow 1 phase: 2 max_bw: 2.603 sending_bw: 2.603
+flow 2 phase: 4 max_bw: 8.079 sending_bw: 8.079
+flow 3 phase: 6 max_bw: 8.086 sending_bw: 8.086
+t= 0098 sending: f1: 2.603 f2: 8.079 f3: 8.086
+t= 0098 receive: f1: 2.316 f2: 7.563 f3: 7.684
+t= 0098  max_bw: f1: 2.603 f2: 8.079 f3: 8.086
+
+flow 1 phase: 3 max_bw: 2.603 sending_bw: 2.603
+flow 2 phase: 5 max_bw: 8.079 sending_bw: 8.079
+flow 3 phase: 7 max_bw: 8.086 sending_bw: 8.086
+t= 0099 sending: f1: 2.603 f2: 8.079 f3: 8.086
+t= 0099 receive: f1: 2.316 f2: 7.563 f3: 7.684
+t= 0099  max_bw: f1: 2.603 f2: 8.054 f3: 8.075
+
+flow 1 phase: 4 max_bw: 2.603 sending_bw: 2.603
+flow 2 phase: 6 max_bw: 8.054 sending_bw: 8.054
+flow 3 phase: 0 max_bw: 8.075 sending_bw: 10.094
+t= 0100 sending: f1: 2.603 f2: 8.054 f3: 10.094
+t= 0100 receive: f1: 1.948 f2: 7.557 f3: 8.052
+t= 0100  max_bw: f1: 2.603 f2: 8.054 f3: 8.075
+
+flow 1 phase: 5 max_bw: 2.603 sending_bw: 2.603
+flow 2 phase: 7 max_bw: 8.054 sending_bw: 8.054
+flow 3 phase: 1 max_bw: 8.075 sending_bw: 6.057
+t= 0101 sending: f1: 2.603 f2: 8.054 f3: 6.057
+t= 0101 receive: f1: 2.603 f2: 7.557 f3: 6.057
+t= 0101  max_bw: f1: 2.603 f2: 8.054 f3: 8.075
+
+flow 1 phase: 6 max_bw: 2.603 sending_bw: 2.603
+flow 2 phase: 0 max_bw: 8.054 sending_bw: 10.067
+flow 3 phase: 2 max_bw: 8.075 sending_bw: 8.075
+t= 0102 sending: f1: 2.603 f2: 10.067 f3: 8.075
+t= 0102 receive: f1: 2.028 f2: 7.945 f3: 7.972
+t= 0102  max_bw: f1: 2.603 f2: 8.054 f3: 8.060
+
+flow 1 phase: 7 max_bw: 2.603 sending_bw: 2.603
+flow 2 phase: 1 max_bw: 8.054 sending_bw: 6.040
+flow 3 phase: 3 max_bw: 8.060 sending_bw: 8.060
+t= 0103 sending: f1: 2.603 f2: 6.040 f3: 8.060
+t= 0103 receive: f1: 2.603 f2: 6.040 f3: 7.280
+t= 0103  max_bw: f1: 2.603 f2: 8.054 f3: 8.060
+
+flow 1 phase: 0 max_bw: 2.603 sending_bw: 3.254
+flow 2 phase: 2 max_bw: 8.054 sending_bw: 8.054
+flow 3 phase: 4 max_bw: 8.060 sending_bw: 8.060
+t= 0104 sending: f1: 3.254 f2: 8.054 f3: 8.060
+t= 0104 receive: f1: 2.631 f2: 7.122 f3: 7.369
+t= 0104  max_bw: f1: 2.631 f2: 8.054 f3: 8.060
+
+flow 1 phase: 1 max_bw: 2.631 sending_bw: 1.973
+flow 2 phase: 3 max_bw: 8.054 sending_bw: 8.054
+flow 3 phase: 5 max_bw: 8.060 sending_bw: 8.060
+t= 0105 sending: f1: 1.973 f2: 8.054 f3: 8.060
+t= 0105 receive: f1: 1.962 f2: 8.032 f3: 8.038
+t= 0105  max_bw: f1: 2.631 f2: 8.054 f3: 8.060
+
+flow 1 phase: 2 max_bw: 2.631 sending_bw: 2.631
+flow 2 phase: 4 max_bw: 8.054 sending_bw: 8.054
+flow 3 phase: 6 max_bw: 8.060 sending_bw: 8.060
+t= 0106 sending: f1: 2.631 f2: 8.054 f3: 8.060
+t= 0106 receive: f1: 2.340 f2: 7.538 f3: 7.660
+t= 0106  max_bw: f1: 2.631 f2: 8.054 f3: 8.060
+
+flow 1 phase: 3 max_bw: 2.631 sending_bw: 2.631
+flow 2 phase: 5 max_bw: 8.054 sending_bw: 8.054
+flow 3 phase: 7 max_bw: 8.060 sending_bw: 8.060
+t= 0107 sending: f1: 2.631 f2: 8.054 f3: 8.060
+t= 0107 receive: f1: 2.340 f2: 7.538 f3: 7.660
+t= 0107  max_bw: f1: 2.631 f2: 8.032 f3: 8.052
+
+flow 1 phase: 4 max_bw: 2.631 sending_bw: 2.631
+flow 2 phase: 6 max_bw: 8.032 sending_bw: 8.032
+flow 3 phase: 0 max_bw: 8.052 sending_bw: 10.064
+t= 0108 sending: f1: 2.631 f2: 8.032 f3: 10.064
+t= 0108 receive: f1: 1.969 f2: 7.533 f3: 8.031
+t= 0108  max_bw: f1: 2.631 f2: 8.032 f3: 8.052
+
+flow 1 phase: 5 max_bw: 2.631 sending_bw: 2.631
+flow 2 phase: 7 max_bw: 8.032 sending_bw: 8.032
+flow 3 phase: 1 max_bw: 8.052 sending_bw: 6.039
+t= 0109 sending: f1: 2.631 f2: 8.032 f3: 6.039
+t= 0109 receive: f1: 2.631 f2: 7.533 f3: 6.039
+t= 0109  max_bw: f1: 2.631 f2: 8.032 f3: 8.052
+
+flow 1 phase: 6 max_bw: 2.631 sending_bw: 2.631
+flow 2 phase: 0 max_bw: 8.032 sending_bw: 10.040
+flow 3 phase: 2 max_bw: 8.052 sending_bw: 8.052
+t= 0110 sending: f1: 2.631 f2: 10.040 f3: 8.052
+t= 0110 receive: f1: 2.050 f2: 7.924 f3: 7.950
+t= 0110  max_bw: f1: 2.631 f2: 8.032 f3: 8.038
+
+flow 1 phase: 7 max_bw: 2.631 sending_bw: 2.631
+flow 2 phase: 1 max_bw: 8.032 sending_bw: 6.024
+flow 3 phase: 3 max_bw: 8.038 sending_bw: 8.038
+t= 0111 sending: f1: 2.631 f2: 6.024 f3: 8.038
+t= 0111 receive: f1: 2.631 f2: 6.024 f3: 7.256
+t= 0111  max_bw: f1: 2.631 f2: 8.032 f3: 8.038
+
+flow 1 phase: 0 max_bw: 2.631 sending_bw: 3.289
+flow 2 phase: 2 max_bw: 8.032 sending_bw: 8.032
+flow 3 phase: 4 max_bw: 8.038 sending_bw: 8.038
+t= 0112 sending: f1: 3.289 f2: 8.032 f3: 8.038
+t= 0112 receive: f1: 2.655 f2: 7.095 f3: 7.345
+t= 0112  max_bw: f1: 2.655 f2: 8.032 f3: 8.038
+
+flow 1 phase: 1 max_bw: 2.655 sending_bw: 1.991
+flow 2 phase: 3 max_bw: 8.032 sending_bw: 8.032
+flow 3 phase: 5 max_bw: 8.038 sending_bw: 8.038
+t= 0113 sending: f1: 1.991 f2: 8.032 f3: 8.038
+t= 0113 receive: f1: 1.982 f2: 8.013 f3: 8.018
+t= 0113  max_bw: f1: 2.655 f2: 8.032 f3: 8.038
+
+flow 1 phase: 2 max_bw: 2.655 sending_bw: 2.655
+flow 2 phase: 4 max_bw: 8.032 sending_bw: 8.032
+flow 3 phase: 6 max_bw: 8.038 sending_bw: 8.038
+t= 0114 sending: f1: 2.655 f2: 8.032 f3: 8.038
+t= 0114 receive: f1: 2.361 f2: 7.516 f3: 7.639
+t= 0114  max_bw: f1: 2.655 f2: 8.032 f3: 8.038
+
+flow 1 phase: 3 max_bw: 2.655 sending_bw: 2.655
+flow 2 phase: 5 max_bw: 8.032 sending_bw: 8.032
+flow 3 phase: 7 max_bw: 8.038 sending_bw: 8.038
+t= 0115 sending: f1: 2.655 f2: 8.032 f3: 8.038
+t= 0115 receive: f1: 2.361 f2: 7.516 f3: 7.639
+t= 0115  max_bw: f1: 2.655 f2: 8.013 f3: 8.031
+
+flow 1 phase: 4 max_bw: 2.655 sending_bw: 2.655
+flow 2 phase: 6 max_bw: 8.013 sending_bw: 8.013
+flow 3 phase: 0 max_bw: 8.031 sending_bw: 10.039
+t= 0116 sending: f1: 2.655 f2: 8.013 f3: 10.039
+t= 0116 receive: f1: 1.986 f2: 7.511 f3: 8.014
+t= 0116  max_bw: f1: 2.655 f2: 8.013 f3: 8.031
+
+flow 1 phase: 5 max_bw: 2.655 sending_bw: 2.655
+flow 2 phase: 7 max_bw: 8.013 sending_bw: 8.013
+flow 3 phase: 1 max_bw: 8.031 sending_bw: 6.023
+t= 0117 sending: f1: 2.655 f2: 8.013 f3: 6.023
+t= 0117 receive: f1: 2.655 f2: 7.511 f3: 6.023
+t= 0117  max_bw: f1: 2.655 f2: 8.013 f3: 8.031
+
+flow 1 phase: 6 max_bw: 2.655 sending_bw: 2.655
+flow 2 phase: 0 max_bw: 8.013 sending_bw: 10.017
+flow 3 phase: 2 max_bw: 8.031 sending_bw: 8.031
+t= 0118 sending: f1: 2.655 f2: 10.017 f3: 8.031
+t= 0118 receive: f1: 2.069 f2: 7.905 f3: 7.931
+t= 0118  max_bw: f1: 2.655 f2: 8.013 f3: 8.018
+
+flow 1 phase: 7 max_bw: 2.655 sending_bw: 2.655
+flow 2 phase: 1 max_bw: 8.013 sending_bw: 6.010
+flow 3 phase: 3 max_bw: 8.018 sending_bw: 8.018
+t= 0119 sending: f1: 2.655 f2: 6.010 f3: 8.018
+t= 0119 receive: f1: 2.655 f2: 6.010 f3: 7.235
+t= 0119  max_bw: f1: 2.655 f2: 8.013 f3: 8.018
+
+flow 1 phase: 0 max_bw: 2.655 sending_bw: 3.319
+flow 2 phase: 2 max_bw: 8.013 sending_bw: 8.013
+flow 3 phase: 4 max_bw: 8.018 sending_bw: 8.018
+t= 0120 sending: f1: 3.319 f2: 8.013 f3: 8.018
+t= 0120 receive: f1: 2.675 f2: 7.072 f3: 7.325
+t= 0120  max_bw: f1: 2.675 f2: 8.013 f3: 8.018
+
+flow 1 phase: 1 max_bw: 2.675 sending_bw: 2.006
+flow 2 phase: 3 max_bw: 8.013 sending_bw: 8.013
+flow 3 phase: 5 max_bw: 8.018 sending_bw: 8.018
+t= 0121 sending: f1: 2.006 f2: 8.013 f3: 8.018
+t= 0121 receive: f1: 1.998 f2: 7.998 f3: 8.002
+t= 0121  max_bw: f1: 2.675 f2: 8.013 f3: 8.018
+
+flow 1 phase: 2 max_bw: 2.675 sending_bw: 2.675
+flow 2 phase: 4 max_bw: 8.013 sending_bw: 8.013
+flow 3 phase: 6 max_bw: 8.018 sending_bw: 8.018
+t= 0122 sending: f1: 2.675 f2: 8.013 f3: 8.018
+t= 0122 receive: f1: 2.379 f2: 7.497 f3: 7.621
+t= 0122  max_bw: f1: 2.675 f2: 8.013 f3: 8.018
+
+flow 1 phase: 3 max_bw: 2.675 sending_bw: 2.675
+flow 2 phase: 5 max_bw: 8.013 sending_bw: 8.013
+flow 3 phase: 7 max_bw: 8.018 sending_bw: 8.018
+t= 0123 sending: f1: 2.675 f2: 8.013 f3: 8.018
+t= 0123 receive: f1: 2.379 f2: 7.497 f3: 7.621
+t= 0123  max_bw: f1: 2.675 f2: 7.998 f3: 8.014
+
+flow 1 phase: 4 max_bw: 2.675 sending_bw: 2.675
+flow 2 phase: 6 max_bw: 7.998 sending_bw: 7.998
+flow 3 phase: 0 max_bw: 8.014 sending_bw: 10.017
+t= 0124 sending: f1: 2.675 f2: 7.998 f3: 10.017
+t= 0124 receive: f1: 2.001 f2: 7.493 f3: 7.999
+t= 0124  max_bw: f1: 2.675 f2: 7.998 f3: 8.014
+
+flow 1 phase: 5 max_bw: 2.675 sending_bw: 2.675
+flow 2 phase: 7 max_bw: 7.998 sending_bw: 7.998
+flow 3 phase: 1 max_bw: 8.014 sending_bw: 6.010
+t= 0125 sending: f1: 2.675 f2: 7.998 f3: 6.010
+t= 0125 receive: f1: 2.675 f2: 7.493 f3: 6.010
+t= 0125  max_bw: f1: 2.675 f2: 7.998 f3: 8.014
+
+flow 1 phase: 6 max_bw: 2.675 sending_bw: 2.675
+flow 2 phase: 0 max_bw: 7.998 sending_bw: 9.997
+flow 3 phase: 2 max_bw: 8.014 sending_bw: 8.014
+t= 0126 sending: f1: 2.675 f2: 9.997 f3: 8.014
+t= 0126 receive: f1: 2.085 f2: 7.889 f3: 7.915
+t= 0126  max_bw: f1: 2.675 f2: 7.998 f3: 8.002
+
+flow 1 phase: 7 max_bw: 2.675 sending_bw: 2.675
+flow 2 phase: 1 max_bw: 7.998 sending_bw: 5.998
+flow 3 phase: 3 max_bw: 8.002 sending_bw: 8.002
+t= 0127 sending: f1: 2.675 f2: 5.998 f3: 8.002
+t= 0127 receive: f1: 2.675 f2: 5.998 f3: 7.218
+t= 0127  max_bw: f1: 2.675 f2: 7.998 f3: 8.002
+
+flow 1 phase: 0 max_bw: 2.675 sending_bw: 3.344
+flow 2 phase: 2 max_bw: 7.998 sending_bw: 7.998
+flow 3 phase: 4 max_bw: 8.002 sending_bw: 8.002
+t= 0128 sending: f1: 3.344 f2: 7.998 f3: 8.002
+t= 0128 receive: f1: 2.693 f2: 7.052 f3: 7.307
+t= 0128  max_bw: f1: 2.693 f2: 7.998 f3: 8.002
+
+flow 1 phase: 1 max_bw: 2.693 sending_bw: 2.019
+flow 2 phase: 3 max_bw: 7.998 sending_bw: 7.998
+flow 3 phase: 5 max_bw: 8.002 sending_bw: 8.002
+t= 0129 sending: f1: 2.019 f2: 7.998 f3: 8.002
+t= 0129 receive: f1: 2.012 f2: 7.984 f3: 7.988
+t= 0129  max_bw: f1: 2.693 f2: 7.998 f3: 8.002
+
+flow 1 phase: 2 max_bw: 2.693 sending_bw: 2.693
+flow 2 phase: 4 max_bw: 7.998 sending_bw: 7.998
+flow 3 phase: 6 max_bw: 8.002 sending_bw: 8.002
+t= 0130 sending: f1: 2.693 f2: 7.998 f3: 8.002
+t= 0130 receive: f1: 2.394 f2: 7.481 f3: 7.606
+t= 0130  max_bw: f1: 2.693 f2: 7.998 f3: 8.002
+
+flow 1 phase: 3 max_bw: 2.693 sending_bw: 2.693
+flow 2 phase: 5 max_bw: 7.998 sending_bw: 7.998
+flow 3 phase: 7 max_bw: 8.002 sending_bw: 8.002
+t= 0131 sending: f1: 2.693 f2: 7.998 f3: 8.002
+t= 0131 receive: f1: 2.394 f2: 7.481 f3: 7.606
+t= 0131  max_bw: f1: 2.693 f2: 7.984 f3: 7.999
+
+flow 1 phase: 4 max_bw: 2.693 sending_bw: 2.693
+flow 2 phase: 6 max_bw: 7.984 sending_bw: 7.984
+flow 3 phase: 0 max_bw: 7.999 sending_bw: 9.998
+t= 0132 sending: f1: 2.693 f2: 7.984 f3: 9.998
+t= 0132 receive: f1: 2.014 f2: 7.478 f3: 7.986
+t= 0132  max_bw: f1: 2.693 f2: 7.984 f3: 7.999
+
+flow 1 phase: 5 max_bw: 2.693 sending_bw: 2.693
+flow 2 phase: 7 max_bw: 7.984 sending_bw: 7.984
+flow 3 phase: 1 max_bw: 7.999 sending_bw: 5.999
+t= 0133 sending: f1: 2.693 f2: 7.984 f3: 5.999
+t= 0133 receive: f1: 2.693 f2: 7.478 f3: 5.999
+t= 0133  max_bw: f1: 2.693 f2: 7.984 f3: 7.999
+
+flow 1 phase: 6 max_bw: 2.693 sending_bw: 2.693
+flow 2 phase: 0 max_bw: 7.984 sending_bw: 9.980
+flow 3 phase: 2 max_bw: 7.999 sending_bw: 7.999
+t= 0134 sending: f1: 2.693 f2: 9.980 f3: 7.999
+t= 0134 receive: f1: 2.099 f2: 7.875 f3: 7.901
+t= 0134  max_bw: f1: 2.693 f2: 7.984 f3: 7.988
+
+flow 1 phase: 7 max_bw: 2.693 sending_bw: 2.693
+flow 2 phase: 1 max_bw: 7.984 sending_bw: 5.988
+flow 3 phase: 3 max_bw: 7.988 sending_bw: 7.988
+t= 0135 sending: f1: 2.693 f2: 5.988 f3: 7.988
+t= 0135 receive: f1: 2.693 f2: 5.988 f3: 7.203
+t= 0135  max_bw: f1: 2.693 f2: 7.984 f3: 7.988
+
+flow 1 phase: 0 max_bw: 2.693 sending_bw: 3.366
+flow 2 phase: 2 max_bw: 7.984 sending_bw: 7.984
+flow 3 phase: 4 max_bw: 7.988 sending_bw: 7.988
+t= 0136 sending: f1: 3.366 f2: 7.984 f3: 7.988
+t= 0136 receive: f1: 2.707 f2: 7.035 f3: 7.293
+t= 0136  max_bw: f1: 2.707 f2: 7.984 f3: 7.988
+
+flow 1 phase: 1 max_bw: 2.707 sending_bw: 2.031
+flow 2 phase: 3 max_bw: 7.984 sending_bw: 7.984
+flow 3 phase: 5 max_bw: 7.988 sending_bw: 7.988
+t= 0137 sending: f1: 2.031 f2: 7.984 f3: 7.988
+t= 0137 receive: f1: 2.025 f2: 7.972 f3: 7.975
+t= 0137  max_bw: f1: 2.707 f2: 7.984 f3: 7.988
+
+flow 1 phase: 2 max_bw: 2.707 sending_bw: 2.707
+flow 2 phase: 4 max_bw: 7.984 sending_bw: 7.984
+flow 3 phase: 6 max_bw: 7.988 sending_bw: 7.988
+t= 0138 sending: f1: 2.707 f2: 7.984 f3: 7.988
+t= 0138 receive: f1: 2.407 f2: 7.468 f3: 7.593
+t= 0138  max_bw: f1: 2.707 f2: 7.984 f3: 7.988
+
+flow 1 phase: 3 max_bw: 2.707 sending_bw: 2.707
+flow 2 phase: 5 max_bw: 7.984 sending_bw: 7.984
+flow 3 phase: 7 max_bw: 7.988 sending_bw: 7.988
+t= 0139 sending: f1: 2.707 f2: 7.984 f3: 7.988
+t= 0139 receive: f1: 2.407 f2: 7.468 f3: 7.593
+t= 0139  max_bw: f1: 2.707 f2: 7.972 f3: 7.986
+
+flow 1 phase: 4 max_bw: 2.707 sending_bw: 2.707
+flow 2 phase: 6 max_bw: 7.972 sending_bw: 7.972
+flow 3 phase: 0 max_bw: 7.986 sending_bw: 9.982
+t= 0140 sending: f1: 2.707 f2: 7.972 f3: 9.982
+t= 0140 receive: f1: 2.025 f2: 7.465 f3: 7.975
+t= 0140  max_bw: f1: 2.707 f2: 7.972 f3: 7.986
+
+flow 1 phase: 5 max_bw: 2.707 sending_bw: 2.707
+flow 2 phase: 7 max_bw: 7.972 sending_bw: 7.972
+flow 3 phase: 1 max_bw: 7.986 sending_bw: 5.989
+t= 0141 sending: f1: 2.707 f2: 7.972 f3: 5.989
+t= 0141 receive: f1: 2.707 f2: 7.465 f3: 5.989
+t= 0141  max_bw: f1: 2.707 f2: 7.972 f3: 7.986
+
+flow 1 phase: 6 max_bw: 2.707 sending_bw: 2.707
+flow 2 phase: 0 max_bw: 7.972 sending_bw: 9.965
+flow 3 phase: 2 max_bw: 7.986 sending_bw: 7.986
+t= 0142 sending: f1: 2.707 f2: 9.965 f3: 7.986
+t= 0142 receive: f1: 2.111 f2: 7.864 f3: 7.889
+t= 0142  max_bw: f1: 2.707 f2: 7.972 f3: 7.975
+
+flow 1 phase: 7 max_bw: 2.707 sending_bw: 2.707
+flow 2 phase: 1 max_bw: 7.972 sending_bw: 5.979
+flow 3 phase: 3 max_bw: 7.975 sending_bw: 7.975
+t= 0143 sending: f1: 2.707 f2: 5.979 f3: 7.975
+t= 0143 receive: f1: 2.707 f2: 5.979 f3: 7.190
+t= 0143  max_bw: f1: 2.707 f2: 7.972 f3: 7.975
+
+flow 1 phase: 0 max_bw: 2.707 sending_bw: 3.384
+flow 2 phase: 2 max_bw: 7.972 sending_bw: 7.972
+flow 3 phase: 4 max_bw: 7.975 sending_bw: 7.975
+t= 0144 sending: f1: 3.384 f2: 7.972 f3: 7.975
+t= 0144 receive: f1: 2.720 f2: 7.020 f3: 7.280
+t= 0144  max_bw: f1: 2.720 f2: 7.972 f3: 7.975
+
+flow 1 phase: 1 max_bw: 2.720 sending_bw: 2.040
+flow 2 phase: 3 max_bw: 7.972 sending_bw: 7.972
+flow 3 phase: 5 max_bw: 7.975 sending_bw: 7.975
+t= 0145 sending: f1: 2.040 f2: 7.972 f3: 7.975
+t= 0145 receive: f1: 2.035 f2: 7.962 f3: 7.965
+t= 0145  max_bw: f1: 2.720 f2: 7.972 f3: 7.975
+
+flow 1 phase: 2 max_bw: 2.720 sending_bw: 2.720
+flow 2 phase: 4 max_bw: 7.972 sending_bw: 7.972
+flow 3 phase: 6 max_bw: 7.975 sending_bw: 7.975
+t= 0146 sending: f1: 2.720 f2: 7.972 f3: 7.975
+t= 0146 receive: f1: 2.418 f2: 7.456 f3: 7.582
+t= 0146  max_bw: f1: 2.720 f2: 7.972 f3: 7.975
+
+flow 1 phase: 3 max_bw: 2.720 sending_bw: 2.720
+flow 2 phase: 5 max_bw: 7.972 sending_bw: 7.972
+flow 3 phase: 7 max_bw: 7.975 sending_bw: 7.975
+t= 0147 sending: f1: 2.720 f2: 7.972 f3: 7.975
+t= 0147 receive: f1: 2.418 f2: 7.456 f3: 7.582
+t= 0147  max_bw: f1: 2.720 f2: 7.962 f3: 7.975
+
+flow 1 phase: 4 max_bw: 2.720 sending_bw: 2.720
+flow 2 phase: 6 max_bw: 7.962 sending_bw: 7.962
+flow 3 phase: 0 max_bw: 7.975 sending_bw: 9.968
+t= 0148 sending: f1: 2.720 f2: 7.962 f3: 9.968
+t= 0148 receive: f1: 2.035 f2: 7.454 f3: 7.965
+t= 0148  max_bw: f1: 2.720 f2: 7.962 f3: 7.975
+
+flow 1 phase: 5 max_bw: 2.720 sending_bw: 2.720
+flow 2 phase: 7 max_bw: 7.962 sending_bw: 7.962
+flow 3 phase: 1 max_bw: 7.975 sending_bw: 5.981
+t= 0149 sending: f1: 2.720 f2: 7.962 f3: 5.981
+t= 0149 receive: f1: 2.720 f2: 7.454 f3: 5.981
+t= 0149  max_bw: f1: 2.720 f2: 7.962 f3: 7.975
+
+flow 1 phase: 6 max_bw: 2.720 sending_bw: 2.720
+flow 2 phase: 0 max_bw: 7.962 sending_bw: 9.953
+flow 3 phase: 2 max_bw: 7.975 sending_bw: 7.975
+t= 0150 sending: f1: 2.720 f2: 9.953 f3: 7.975
+t= 0150 receive: f1: 2.121 f2: 7.854 f3: 7.879
+t= 0150  max_bw: f1: 2.720 f2: 7.962 f3: 7.965
+
+flow 1 phase: 7 max_bw: 2.720 sending_bw: 2.720
+flow 2 phase: 1 max_bw: 7.962 sending_bw: 5.972
+flow 3 phase: 3 max_bw: 7.965 sending_bw: 7.965
+t= 0151 sending: f1: 2.720 f2: 5.972 f3: 7.965
+t= 0151 receive: f1: 2.720 f2: 5.972 f3: 7.179
+t= 0151  max_bw: f1: 2.720 f2: 7.962 f3: 7.965
+
+flow 1 phase: 0 max_bw: 2.720 sending_bw: 3.400
+flow 2 phase: 2 max_bw: 7.962 sending_bw: 7.962
+flow 3 phase: 4 max_bw: 7.965 sending_bw: 7.965
+t= 0152 sending: f1: 3.400 f2: 7.962 f3: 7.965
+t= 0152 receive: f1: 2.731 f2: 7.008 f3: 7.269
+t= 0152  max_bw: f1: 2.731 f2: 7.962 f3: 7.965
+
+flow 1 phase: 1 max_bw: 2.731 sending_bw: 2.048
+flow 2 phase: 3 max_bw: 7.962 sending_bw: 7.962
+flow 3 phase: 5 max_bw: 7.965 sending_bw: 7.965
+t= 0153 sending: f1: 2.048 f2: 7.962 f3: 7.965
+t= 0153 receive: f1: 2.044 f2: 7.954 f3: 7.956
+t= 0153  max_bw: f1: 2.731 f2: 7.962 f3: 7.965
+
+flow 1 phase: 2 max_bw: 2.731 sending_bw: 2.731
+flow 2 phase: 4 max_bw: 7.962 sending_bw: 7.962
+flow 3 phase: 6 max_bw: 7.965 sending_bw: 7.965
+t= 0154 sending: f1: 2.731 f2: 7.962 f3: 7.965
+t= 0154 receive: f1: 2.428 f2: 7.446 f3: 7.572
+t= 0154  max_bw: f1: 2.731 f2: 7.962 f3: 7.965
+
+flow 1 phase: 3 max_bw: 2.731 sending_bw: 2.731
+flow 2 phase: 5 max_bw: 7.962 sending_bw: 7.962
+flow 3 phase: 7 max_bw: 7.965 sending_bw: 7.965
+t= 0155 sending: f1: 2.731 f2: 7.962 f3: 7.965
+t= 0155 receive: f1: 2.428 f2: 7.446 f3: 7.572
+t= 0155  max_bw: f1: 2.731 f2: 7.954 f3: 7.965
+
+flow 1 phase: 4 max_bw: 2.731 sending_bw: 2.731
+flow 2 phase: 6 max_bw: 7.954 sending_bw: 7.954
+flow 3 phase: 0 max_bw: 7.965 sending_bw: 9.957
+t= 0156 sending: f1: 2.731 f2: 7.954 f3: 9.957
+t= 0156 receive: f1: 2.043 f2: 7.444 f3: 7.957
+t= 0156  max_bw: f1: 2.731 f2: 7.954 f3: 7.965
+
+flow 1 phase: 5 max_bw: 2.731 sending_bw: 2.731
+flow 2 phase: 7 max_bw: 7.954 sending_bw: 7.954
+flow 3 phase: 1 max_bw: 7.965 sending_bw: 5.974
+t= 0157 sending: f1: 2.731 f2: 7.954 f3: 5.974
+t= 0157 receive: f1: 2.731 f2: 7.444 f3: 5.974
+t= 0157  max_bw: f1: 2.731 f2: 7.954 f3: 7.965
+
+flow 1 phase: 6 max_bw: 2.731 sending_bw: 2.731
+flow 2 phase: 0 max_bw: 7.954 sending_bw: 9.943
+flow 3 phase: 2 max_bw: 7.965 sending_bw: 7.965
+t= 0158 sending: f1: 2.731 f2: 9.943 f3: 7.965
+t= 0158 receive: f1: 2.129 f2: 7.845 f3: 7.871
+t= 0158  max_bw: f1: 2.731 f2: 7.954 f3: 7.957
+
+flow 1 phase: 7 max_bw: 2.731 sending_bw: 2.731
+flow 2 phase: 1 max_bw: 7.954 sending_bw: 5.966
+flow 3 phase: 3 max_bw: 7.957 sending_bw: 7.957
+t= 0159 sending: f1: 2.731 f2: 5.966 f3: 7.957
+t= 0159 receive: f1: 2.731 f2: 5.966 f3: 7.170
+t= 0159  max_bw: f1: 2.731 f2: 7.954 f3: 7.957
+
+flow 1 phase: 0 max_bw: 2.731 sending_bw: 3.414
+flow 2 phase: 2 max_bw: 7.954 sending_bw: 7.954
+flow 3 phase: 4 max_bw: 7.957 sending_bw: 7.957
+t= 0160 sending: f1: 3.414 f2: 7.954 f3: 7.957
+t= 0160 receive: f1: 2.740 f2: 6.997 f3: 7.260
+t= 0160  max_bw: f1: 2.740 f2: 7.954 f3: 7.957
+
+flow 1 phase: 1 max_bw: 2.740 sending_bw: 2.055
+flow 2 phase: 3 max_bw: 7.954 sending_bw: 7.954
+flow 3 phase: 5 max_bw: 7.957 sending_bw: 7.957
+t= 0161 sending: f1: 2.055 f2: 7.954 f3: 7.957
+t= 0161 receive: f1: 2.051 f2: 7.947 f3: 7.949
+t= 0161  max_bw: f1: 2.740 f2: 7.954 f3: 7.957
+
+flow 1 phase: 2 max_bw: 2.740 sending_bw: 2.740
+flow 2 phase: 4 max_bw: 7.954 sending_bw: 7.954
+flow 3 phase: 6 max_bw: 7.957 sending_bw: 7.957
+t= 0162 sending: f1: 2.740 f2: 7.954 f3: 7.957
+t= 0162 receive: f1: 2.436 f2: 7.438 f3: 7.564
+t= 0162  max_bw: f1: 2.740 f2: 7.954 f3: 7.957
+
+flow 1 phase: 3 max_bw: 2.740 sending_bw: 2.740
+flow 2 phase: 5 max_bw: 7.954 sending_bw: 7.954
+flow 3 phase: 7 max_bw: 7.957 sending_bw: 7.957
+t= 0163 sending: f1: 2.740 f2: 7.954 f3: 7.957
+t= 0163 receive: f1: 2.436 f2: 7.438 f3: 7.564
+t= 0163  max_bw: f1: 2.740 f2: 7.947 f3: 7.957
+
+flow 1 phase: 4 max_bw: 2.740 sending_bw: 2.740
+flow 2 phase: 6 max_bw: 7.947 sending_bw: 7.947
+flow 3 phase: 0 max_bw: 7.957 sending_bw: 9.947
+t= 0164 sending: f1: 2.740 f2: 7.947 f3: 9.947
+t= 0164 receive: f1: 2.049 f2: 7.436 f3: 7.951
+t= 0164  max_bw: f1: 2.740 f2: 7.947 f3: 7.957
+
+flow 1 phase: 5 max_bw: 2.740 sending_bw: 2.740
+flow 2 phase: 7 max_bw: 7.947 sending_bw: 7.947
+flow 3 phase: 1 max_bw: 7.957 sending_bw: 5.968
+t= 0165 sending: f1: 2.740 f2: 7.947 f3: 5.968
+t= 0165 receive: f1: 2.740 f2: 7.436 f3: 5.968
+t= 0165  max_bw: f1: 2.740 f2: 7.947 f3: 7.957
+
+flow 1 phase: 6 max_bw: 2.740 sending_bw: 2.740
+flow 2 phase: 0 max_bw: 7.947 sending_bw: 9.934
+flow 3 phase: 2 max_bw: 7.957 sending_bw: 7.957
+t= 0166 sending: f1: 2.740 f2: 9.934 f3: 7.957
+t= 0166 receive: f1: 2.136 f2: 7.838 f3: 7.864
+t= 0166  max_bw: f1: 2.740 f2: 7.947 f3: 7.951
+
+flow 1 phase: 7 max_bw: 2.740 sending_bw: 2.740
+flow 2 phase: 1 max_bw: 7.947 sending_bw: 5.960
+flow 3 phase: 3 max_bw: 7.951 sending_bw: 7.951
+t= 0167 sending: f1: 2.740 f2: 5.960 f3: 7.951
+t= 0167 receive: f1: 2.740 f2: 5.960 f3: 7.163
+t= 0167  max_bw: f1: 2.740 f2: 7.947 f3: 7.951
+
+flow 1 phase: 0 max_bw: 2.740 sending_bw: 3.425
+flow 2 phase: 2 max_bw: 7.947 sending_bw: 7.947
+flow 3 phase: 4 max_bw: 7.951 sending_bw: 7.951
+t= 0168 sending: f1: 3.425 f2: 7.947 f3: 7.951
+t= 0168 receive: f1: 2.747 f2: 6.988 f3: 7.253
+t= 0168  max_bw: f1: 2.747 f2: 7.947 f3: 7.951
+
+flow 1 phase: 1 max_bw: 2.747 sending_bw: 2.060
+flow 2 phase: 3 max_bw: 7.947 sending_bw: 7.947
+flow 3 phase: 5 max_bw: 7.951 sending_bw: 7.951
+t= 0169 sending: f1: 2.060 f2: 7.947 f3: 7.951
+t= 0169 receive: f1: 2.057 f2: 7.941 f3: 7.943
+t= 0169  max_bw: f1: 2.747 f2: 7.947 f3: 7.951
+
+flow 1 phase: 2 max_bw: 2.747 sending_bw: 2.747
+flow 2 phase: 4 max_bw: 7.947 sending_bw: 7.947
+flow 3 phase: 6 max_bw: 7.951 sending_bw: 7.951
+t= 0170 sending: f1: 2.747 f2: 7.947 f3: 7.951
+t= 0170 receive: f1: 2.442 f2: 7.431 f3: 7.558
+t= 0170  max_bw: f1: 2.747 f2: 7.947 f3: 7.951
+
+flow 1 phase: 3 max_bw: 2.747 sending_bw: 2.747
+flow 2 phase: 5 max_bw: 7.947 sending_bw: 7.947
+flow 3 phase: 7 max_bw: 7.951 sending_bw: 7.951
+t= 0171 sending: f1: 2.747 f2: 7.947 f3: 7.951
+t= 0171 receive: f1: 2.442 f2: 7.431 f3: 7.558
+t= 0171  max_bw: f1: 2.747 f2: 7.941 f3: 7.951
+
+flow 1 phase: 4 max_bw: 2.747 sending_bw: 2.747
+flow 2 phase: 6 max_bw: 7.941 sending_bw: 7.941
+flow 3 phase: 0 max_bw: 7.951 sending_bw: 9.938
+t= 0172 sending: f1: 2.747 f2: 7.941 f3: 9.938
+t= 0172 receive: f1: 2.055 f2: 7.430 f3: 7.945
+t= 0172  max_bw: f1: 2.747 f2: 7.941 f3: 7.951
+
+flow 1 phase: 5 max_bw: 2.747 sending_bw: 2.747
+flow 2 phase: 7 max_bw: 7.941 sending_bw: 7.941
+flow 3 phase: 1 max_bw: 7.951 sending_bw: 5.963
+t= 0173 sending: f1: 2.747 f2: 7.941 f3: 5.963
+t= 0173 receive: f1: 2.747 f2: 7.430 f3: 5.963
+t= 0173  max_bw: f1: 2.747 f2: 7.941 f3: 7.951
+
+flow 1 phase: 6 max_bw: 2.747 sending_bw: 2.747
+flow 2 phase: 0 max_bw: 7.941 sending_bw: 9.926
+flow 3 phase: 2 max_bw: 7.951 sending_bw: 7.951
+t= 0174 sending: f1: 2.747 f2: 9.926 f3: 7.951
+t= 0174 receive: f1: 2.142 f2: 7.832 f3: 7.858
+t= 0174  max_bw: f1: 2.747 f2: 7.941 f3: 7.945
+
+flow 1 phase: 7 max_bw: 2.747 sending_bw: 2.747
+flow 2 phase: 1 max_bw: 7.941 sending_bw: 5.956
+flow 3 phase: 3 max_bw: 7.945 sending_bw: 7.945
+t= 0175 sending: f1: 2.747 f2: 5.956 f3: 7.945
+t= 0175 receive: f1: 2.747 f2: 5.956 f3: 7.157
+t= 0175  max_bw: f1: 2.747 f2: 7.941 f3: 7.945
+
+flow 1 phase: 0 max_bw: 2.747 sending_bw: 3.434
+flow 2 phase: 2 max_bw: 7.941 sending_bw: 7.941
+flow 3 phase: 4 max_bw: 7.945 sending_bw: 7.945
+t= 0176 sending: f1: 3.434 f2: 7.941 f3: 7.945
+t= 0176 receive: f1: 2.753 f2: 6.981 f3: 7.247
+t= 0176  max_bw: f1: 2.753 f2: 7.941 f3: 7.945
+
+flow 1 phase: 1 max_bw: 2.753 sending_bw: 2.065
+flow 2 phase: 3 max_bw: 7.941 sending_bw: 7.941
+flow 3 phase: 5 max_bw: 7.945 sending_bw: 7.945
+t= 0177 sending: f1: 2.065 f2: 7.941 f3: 7.945
+t= 0177 receive: f1: 2.062 f2: 7.936 f3: 7.938
+t= 0177  max_bw: f1: 2.753 f2: 7.941 f3: 7.945
+
+flow 1 phase: 2 max_bw: 2.753 sending_bw: 2.753
+flow 2 phase: 4 max_bw: 7.941 sending_bw: 7.941
+flow 3 phase: 6 max_bw: 7.945 sending_bw: 7.945
+t= 0178 sending: f1: 2.753 f2: 7.941 f3: 7.945
+t= 0178 receive: f1: 2.447 f2: 7.425 f3: 7.553
+t= 0178  max_bw: f1: 2.753 f2: 7.941 f3: 7.945
+
+flow 1 phase: 3 max_bw: 2.753 sending_bw: 2.753
+flow 2 phase: 5 max_bw: 7.941 sending_bw: 7.941
+flow 3 phase: 7 max_bw: 7.945 sending_bw: 7.945
+t= 0179 sending: f1: 2.753 f2: 7.941 f3: 7.945
+t= 0179 receive: f1: 2.447 f2: 7.425 f3: 7.553
+t= 0179  max_bw: f1: 2.753 f2: 7.936 f3: 7.945
+
+flow 1 phase: 4 max_bw: 2.753 sending_bw: 2.753
+flow 2 phase: 6 max_bw: 7.936 sending_bw: 7.936
+flow 3 phase: 0 max_bw: 7.945 sending_bw: 9.931
+t= 0180 sending: f1: 2.753 f2: 7.936 f3: 9.931
+t= 0180 receive: f1: 2.059 f2: 7.424 f3: 7.941
+t= 0180  max_bw: f1: 2.753 f2: 7.936 f3: 7.945
+
+flow 1 phase: 5 max_bw: 2.753 sending_bw: 2.753
+flow 2 phase: 7 max_bw: 7.936 sending_bw: 7.936
+flow 3 phase: 1 max_bw: 7.945 sending_bw: 5.959
+t= 0181 sending: f1: 2.753 f2: 7.936 f3: 5.959
+t= 0181 receive: f1: 2.753 f2: 7.424 f3: 5.959
+t= 0181  max_bw: f1: 2.753 f2: 7.936 f3: 7.945
+
+flow 1 phase: 6 max_bw: 2.753 sending_bw: 2.753
+flow 2 phase: 0 max_bw: 7.936 sending_bw: 9.920
+flow 3 phase: 2 max_bw: 7.945 sending_bw: 7.945
+t= 0182 sending: f1: 2.753 f2: 9.920 f3: 7.945
+t= 0182 receive: f1: 2.147 f2: 7.827 f3: 7.853
+t= 0182  max_bw: f1: 2.753 f2: 7.936 f3: 7.941
+
+flow 1 phase: 7 max_bw: 2.753 sending_bw: 2.753
+flow 2 phase: 1 max_bw: 7.936 sending_bw: 5.952
+flow 3 phase: 3 max_bw: 7.941 sending_bw: 7.941
+t= 0183 sending: f1: 2.753 f2: 5.952 f3: 7.941
+t= 0183 receive: f1: 2.753 f2: 5.952 f3: 7.151
+t= 0183  max_bw: f1: 2.753 f2: 7.936 f3: 7.941
+
+flow 1 phase: 0 max_bw: 2.753 sending_bw: 3.442
+flow 2 phase: 2 max_bw: 7.936 sending_bw: 7.936
+flow 3 phase: 4 max_bw: 7.941 sending_bw: 7.941
+t= 0184 sending: f1: 3.442 f2: 7.936 f3: 7.941
+t= 0184 receive: f1: 2.759 f2: 6.975 f3: 7.241
+t= 0184  max_bw: f1: 2.759 f2: 7.936 f3: 7.941
+
+flow 1 phase: 1 max_bw: 2.759 sending_bw: 2.069
+flow 2 phase: 3 max_bw: 7.936 sending_bw: 7.936
+flow 3 phase: 5 max_bw: 7.941 sending_bw: 7.941
+t= 0185 sending: f1: 2.069 f2: 7.936 f3: 7.941
+t= 0185 receive: f1: 2.066 f2: 7.932 f3: 7.934
+t= 0185  max_bw: f1: 2.759 f2: 7.936 f3: 7.941
+
+flow 1 phase: 2 max_bw: 2.759 sending_bw: 2.759
+flow 2 phase: 4 max_bw: 7.936 sending_bw: 7.936
+flow 3 phase: 6 max_bw: 7.941 sending_bw: 7.941
+t= 0186 sending: f1: 2.759 f2: 7.936 f3: 7.941
+t= 0186 receive: f1: 2.452 f2: 7.421 f3: 7.548
+t= 0186  max_bw: f1: 2.759 f2: 7.936 f3: 7.941
+
+flow 1 phase: 3 max_bw: 2.759 sending_bw: 2.759
+flow 2 phase: 5 max_bw: 7.936 sending_bw: 7.936
+flow 3 phase: 7 max_bw: 7.941 sending_bw: 7.941
+t= 0187 sending: f1: 2.759 f2: 7.936 f3: 7.941
+t= 0187 receive: f1: 2.452 f2: 7.421 f3: 7.548
+t= 0187  max_bw: f1: 2.759 f2: 7.932 f3: 7.941
+
+flow 1 phase: 4 max_bw: 2.759 sending_bw: 2.759
+flow 2 phase: 6 max_bw: 7.932 sending_bw: 7.932
+flow 3 phase: 0 max_bw: 7.941 sending_bw: 9.926
+t= 0188 sending: f1: 2.759 f2: 7.932 f3: 9.926
+t= 0188 receive: f1: 2.063 f2: 7.420 f3: 7.937
+t= 0188  max_bw: f1: 2.759 f2: 7.932 f3: 7.941
+
+flow 1 phase: 5 max_bw: 2.759 sending_bw: 2.759
+flow 2 phase: 7 max_bw: 7.932 sending_bw: 7.932
+flow 3 phase: 1 max_bw: 7.941 sending_bw: 5.955
+t= 0189 sending: f1: 2.759 f2: 7.932 f3: 5.955
+t= 0189 receive: f1: 2.759 f2: 7.420 f3: 5.955
+t= 0189  max_bw: f1: 2.759 f2: 7.932 f3: 7.941
+
+flow 1 phase: 6 max_bw: 2.759 sending_bw: 2.759
+flow 2 phase: 0 max_bw: 7.932 sending_bw: 9.915
+flow 3 phase: 2 max_bw: 7.941 sending_bw: 7.941
+t= 0190 sending: f1: 2.759 f2: 9.915 f3: 7.941
+t= 0190 receive: f1: 2.151 f2: 7.823 f3: 7.849
+t= 0190  max_bw: f1: 2.759 f2: 7.932 f3: 7.937
+
+flow 1 phase: 7 max_bw: 2.759 sending_bw: 2.759
+flow 2 phase: 1 max_bw: 7.932 sending_bw: 5.949
+flow 3 phase: 3 max_bw: 7.937 sending_bw: 7.937
+t= 0191 sending: f1: 2.759 f2: 5.949 f3: 7.937
+t= 0191 receive: f1: 2.759 f2: 5.949 f3: 7.147
+t= 0191  max_bw: f1: 2.759 f2: 7.932 f3: 7.937
+
+flow 1 phase: 0 max_bw: 2.759 sending_bw: 3.448
+flow 2 phase: 2 max_bw: 7.932 sending_bw: 7.932
+flow 3 phase: 4 max_bw: 7.937 sending_bw: 7.937
+t= 0192 sending: f1: 3.448 f2: 7.932 f3: 7.937
+t= 0192 receive: f1: 2.763 f2: 6.970 f3: 7.237
+t= 0192  max_bw: f1: 2.763 f2: 7.932 f3: 7.937
+
+flow 1 phase: 1 max_bw: 2.763 sending_bw: 2.072
+flow 2 phase: 3 max_bw: 7.932 sending_bw: 7.932
+flow 3 phase: 5 max_bw: 7.937 sending_bw: 7.937
+t= 0193 sending: f1: 2.072 f2: 7.932 f3: 7.937
+t= 0193 receive: f1: 2.070 f2: 7.929 f3: 7.930
+t= 0193  max_bw: f1: 2.763 f2: 7.932 f3: 7.937
+
+flow 1 phase: 2 max_bw: 2.763 sending_bw: 2.763
+flow 2 phase: 4 max_bw: 7.932 sending_bw: 7.932
+flow 3 phase: 6 max_bw: 7.937 sending_bw: 7.937
+t= 0194 sending: f1: 2.763 f2: 7.932 f3: 7.937
+t= 0194 receive: f1: 2.456 f2: 7.417 f3: 7.544
+t= 0194  max_bw: f1: 2.763 f2: 7.932 f3: 7.937
+
+flow 1 phase: 3 max_bw: 2.763 sending_bw: 2.763
+flow 2 phase: 5 max_bw: 7.932 sending_bw: 7.932
+flow 3 phase: 7 max_bw: 7.937 sending_bw: 7.937
+t= 0195 sending: f1: 2.763 f2: 7.932 f3: 7.937
+t= 0195 receive: f1: 2.456 f2: 7.417 f3: 7.544
+t= 0195  max_bw: f1: 2.763 f2: 7.929 f3: 7.937
+
+flow 1 phase: 4 max_bw: 2.763 sending_bw: 2.763
+flow 2 phase: 6 max_bw: 7.929 sending_bw: 7.929
+flow 3 phase: 0 max_bw: 7.937 sending_bw: 9.921
+t= 0196 sending: f1: 2.763 f2: 7.929 f3: 9.921
+t= 0196 receive: f1: 2.067 f2: 7.416 f3: 7.933
+t= 0196  max_bw: f1: 2.763 f2: 7.929 f3: 7.937
+
+flow 1 phase: 5 max_bw: 2.763 sending_bw: 2.763
+flow 2 phase: 7 max_bw: 7.929 sending_bw: 7.929
+flow 3 phase: 1 max_bw: 7.937 sending_bw: 5.953
+t= 0197 sending: f1: 2.763 f2: 7.929 f3: 5.953
+t= 0197 receive: f1: 2.763 f2: 7.416 f3: 5.953
+t= 0197  max_bw: f1: 2.763 f2: 7.929 f3: 7.937
+
+flow 1 phase: 6 max_bw: 2.763 sending_bw: 2.763
+flow 2 phase: 0 max_bw: 7.929 sending_bw: 9.911
+flow 3 phase: 2 max_bw: 7.937 sending_bw: 7.937
+t= 0198 sending: f1: 2.763 f2: 9.911 f3: 7.937
+t= 0198 receive: f1: 2.155 f2: 7.820 f3: 7.845
+t= 0198  max_bw: f1: 2.763 f2: 7.929 f3: 7.933
+
+flow 1 phase: 7 max_bw: 2.763 sending_bw: 2.763
+flow 2 phase: 1 max_bw: 7.929 sending_bw: 5.947
+flow 3 phase: 3 max_bw: 7.933 sending_bw: 7.933
+t= 0199 sending: f1: 2.763 f2: 5.947 f3: 7.933
+t= 0199 receive: f1: 2.763 f2: 5.947 f3: 7.144
+t= 0199  max_bw: f1: 2.763 f2: 7.929 f3: 7.933
+
+flow 1 phase: 0 max_bw: 2.763 sending_bw: 3.454
+flow 2 phase: 2 max_bw: 7.929 sending_bw: 7.929
+flow 3 phase: 4 max_bw: 7.933 sending_bw: 7.933
+t= 0200 sending: f1: 3.454 f2: 7.929 f3: 7.933
+t= 0200 receive: f1: 2.767 f2: 6.966 f3: 7.233
+t= 0200  max_bw: f1: 2.767 f2: 7.929 f3: 7.933
+
+flow 1 phase: 1 max_bw: 2.767 sending_bw: 2.075
+flow 2 phase: 3 max_bw: 7.929 sending_bw: 7.929
+flow 3 phase: 5 max_bw: 7.933 sending_bw: 7.933
+t= 0201 sending: f1: 2.075 f2: 7.929 f3: 7.933
+t= 0201 receive: f1: 2.073 f2: 7.926 f3: 7.927
+t= 0201  max_bw: f1: 2.767 f2: 7.929 f3: 7.933
+
+flow 1 phase: 2 max_bw: 2.767 sending_bw: 2.767
+flow 2 phase: 4 max_bw: 7.929 sending_bw: 7.929
+flow 3 phase: 6 max_bw: 7.933 sending_bw: 7.933
+t= 0202 sending: f1: 2.767 f2: 7.929 f3: 7.933
+t= 0202 receive: f1: 2.459 f2: 7.413 f3: 7.541
+t= 0202  max_bw: f1: 2.767 f2: 7.929 f3: 7.933
+
+flow 1 phase: 3 max_bw: 2.767 sending_bw: 2.767
+flow 2 phase: 5 max_bw: 7.929 sending_bw: 7.929
+flow 3 phase: 7 max_bw: 7.933 sending_bw: 7.933
+t= 0203 sending: f1: 2.767 f2: 7.929 f3: 7.933
+t= 0203 receive: f1: 2.459 f2: 7.413 f3: 7.541
+t= 0203  max_bw: f1: 2.767 f2: 7.926 f3: 7.933
+
+flow 1 phase: 4 max_bw: 2.767 sending_bw: 2.767
+flow 2 phase: 6 max_bw: 7.926 sending_bw: 7.926
+flow 3 phase: 0 max_bw: 7.933 sending_bw: 9.917
+t= 0204 sending: f1: 2.767 f2: 7.926 f3: 9.917
+t= 0204 receive: f1: 2.069 f2: 7.413 f3: 7.931
+t= 0204  max_bw: f1: 2.767 f2: 7.926 f3: 7.933
+
+flow 1 phase: 5 max_bw: 2.767 sending_bw: 2.767
+flow 2 phase: 7 max_bw: 7.926 sending_bw: 7.926
+flow 3 phase: 1 max_bw: 7.933 sending_bw: 5.950
+t= 0205 sending: f1: 2.767 f2: 7.926 f3: 5.950
+t= 0205 receive: f1: 2.767 f2: 7.413 f3: 5.950
+t= 0205  max_bw: f1: 2.767 f2: 7.926 f3: 7.933
+
+flow 1 phase: 6 max_bw: 2.767 sending_bw: 2.767
+flow 2 phase: 0 max_bw: 7.926 sending_bw: 9.907
+flow 3 phase: 2 max_bw: 7.933 sending_bw: 7.933
+t= 0206 sending: f1: 2.767 f2: 9.907 f3: 7.933
+t= 0206 receive: f1: 2.158 f2: 7.817 f3: 7.842
+t= 0206  max_bw: f1: 2.767 f2: 7.926 f3: 7.931
+
+flow 1 phase: 7 max_bw: 2.767 sending_bw: 2.767
+flow 2 phase: 1 max_bw: 7.926 sending_bw: 5.944
+flow 3 phase: 3 max_bw: 7.931 sending_bw: 7.931
+t= 0207 sending: f1: 2.767 f2: 5.944 f3: 7.931
+t= 0207 receive: f1: 2.767 f2: 5.944 f3: 7.141
+t= 0207  max_bw: f1: 2.767 f2: 7.926 f3: 7.931
+
+flow 1 phase: 0 max_bw: 2.767 sending_bw: 3.458
+flow 2 phase: 2 max_bw: 7.926 sending_bw: 7.926
+flow 3 phase: 4 max_bw: 7.931 sending_bw: 7.931
+t= 0208 sending: f1: 3.458 f2: 7.926 f3: 7.931
+t= 0208 receive: f1: 2.769 f2: 6.962 f3: 7.231
+t= 0208  max_bw: f1: 2.769 f2: 7.926 f3: 7.931
+
+flow 1 phase: 1 max_bw: 2.769 sending_bw: 2.077
+flow 2 phase: 3 max_bw: 7.926 sending_bw: 7.926
+flow 3 phase: 5 max_bw: 7.931 sending_bw: 7.931
+t= 0209 sending: f1: 2.077 f2: 7.926 f3: 7.931
+t= 0209 receive: f1: 2.075 f2: 7.924 f3: 7.925
+t= 0209  max_bw: f1: 2.769 f2: 7.926 f3: 7.931
+
+flow 1 phase: 2 max_bw: 2.769 sending_bw: 2.769
+flow 2 phase: 4 max_bw: 7.926 sending_bw: 7.926
+flow 3 phase: 6 max_bw: 7.931 sending_bw: 7.931
+t= 0210 sending: f1: 2.769 f2: 7.926 f3: 7.931
+t= 0210 receive: f1: 2.461 f2: 7.411 f3: 7.539
+t= 0210  max_bw: f1: 2.769 f2: 7.926 f3: 7.931
+
+flow 1 phase: 3 max_bw: 2.769 sending_bw: 2.769
+flow 2 phase: 5 max_bw: 7.926 sending_bw: 7.926
+flow 3 phase: 7 max_bw: 7.931 sending_bw: 7.931
+t= 0211 sending: f1: 2.769 f2: 7.926 f3: 7.931
+t= 0211 receive: f1: 2.461 f2: 7.411 f3: 7.539
+t= 0211  max_bw: f1: 2.769 f2: 7.924 f3: 7.931
+
+flow 1 phase: 4 max_bw: 2.769 sending_bw: 2.769
+flow 2 phase: 6 max_bw: 7.924 sending_bw: 7.924
+flow 3 phase: 0 max_bw: 7.931 sending_bw: 9.914
+t= 0212 sending: f1: 2.769 f2: 7.924 f3: 9.914
+t= 0212 receive: f1: 2.071 f2: 7.410 f3: 7.929
+t= 0212  max_bw: f1: 2.769 f2: 7.924 f3: 7.931
+
+flow 1 phase: 5 max_bw: 2.769 sending_bw: 2.769
+flow 2 phase: 7 max_bw: 7.924 sending_bw: 7.924
+flow 3 phase: 1 max_bw: 7.931 sending_bw: 5.948
+t= 0213 sending: f1: 2.769 f2: 7.924 f3: 5.948
+t= 0213 receive: f1: 2.769 f2: 7.410 f3: 5.948
+t= 0213  max_bw: f1: 2.769 f2: 7.924 f3: 7.931
+
+flow 1 phase: 6 max_bw: 2.769 sending_bw: 2.769
+flow 2 phase: 0 max_bw: 7.924 sending_bw: 9.904
+flow 3 phase: 2 max_bw: 7.931 sending_bw: 7.931
+t= 0214 sending: f1: 2.769 f2: 9.904 f3: 7.931
+t= 0214 receive: f1: 2.160 f2: 7.815 f3: 7.840
+t= 0214  max_bw: f1: 2.769 f2: 7.924 f3: 7.929
+
+flow 1 phase: 7 max_bw: 2.769 sending_bw: 2.769
+flow 2 phase: 1 max_bw: 7.924 sending_bw: 5.943
+flow 3 phase: 3 max_bw: 7.929 sending_bw: 7.929
+t= 0215 sending: f1: 2.769 f2: 5.943 f3: 7.929
+t= 0215 receive: f1: 2.769 f2: 5.943 f3: 7.138
+t= 0215  max_bw: f1: 2.769 f2: 7.924 f3: 7.929
+
+flow 1 phase: 0 max_bw: 2.769 sending_bw: 3.462
+flow 2 phase: 2 max_bw: 7.924 sending_bw: 7.924
+flow 3 phase: 4 max_bw: 7.929 sending_bw: 7.929
+t= 0216 sending: f1: 3.462 f2: 7.924 f3: 7.929
+t= 0216 receive: f1: 2.772 f2: 6.959 f3: 7.228
+t= 0216  max_bw: f1: 2.772 f2: 7.924 f3: 7.929
+
+flow 1 phase: 1 max_bw: 2.772 sending_bw: 2.079
+flow 2 phase: 3 max_bw: 7.924 sending_bw: 7.924
+flow 3 phase: 5 max_bw: 7.929 sending_bw: 7.929
+t= 0217 sending: f1: 2.079 f2: 7.924 f3: 7.929
+t= 0217 receive: f1: 2.077 f2: 7.922 f3: 7.923
+t= 0217  max_bw: f1: 2.772 f2: 7.924 f3: 7.929
+
+flow 1 phase: 2 max_bw: 2.772 sending_bw: 2.772
+flow 2 phase: 4 max_bw: 7.924 sending_bw: 7.924
+flow 3 phase: 6 max_bw: 7.929 sending_bw: 7.929
+t= 0218 sending: f1: 2.772 f2: 7.924 f3: 7.929
+t= 0218 receive: f1: 2.464 f2: 7.408 f3: 7.536
+t= 0218  max_bw: f1: 2.772 f2: 7.924 f3: 7.929
+
+flow 1 phase: 3 max_bw: 2.772 sending_bw: 2.772
+flow 2 phase: 5 max_bw: 7.924 sending_bw: 7.924
+flow 3 phase: 7 max_bw: 7.929 sending_bw: 7.929
+t= 0219 sending: f1: 2.772 f2: 7.924 f3: 7.929
+t= 0219 receive: f1: 2.464 f2: 7.408 f3: 7.536
+t= 0219  max_bw: f1: 2.772 f2: 7.922 f3: 7.929
+
+flow 1 phase: 4 max_bw: 2.772 sending_bw: 2.772
+flow 2 phase: 6 max_bw: 7.922 sending_bw: 7.922
+flow 3 phase: 0 max_bw: 7.929 sending_bw: 9.911
+t= 0220 sending: f1: 2.772 f2: 7.922 f3: 9.911
+t= 0220 receive: f1: 2.073 f2: 7.408 f3: 7.927
+t= 0220  max_bw: f1: 2.772 f2: 7.922 f3: 7.929
+
+flow 1 phase: 5 max_bw: 2.772 sending_bw: 2.772
+flow 2 phase: 7 max_bw: 7.922 sending_bw: 7.922
+flow 3 phase: 1 max_bw: 7.929 sending_bw: 5.946
+t= 0221 sending: f1: 2.772 f2: 7.922 f3: 5.946
+t= 0221 receive: f1: 2.772 f2: 7.408 f3: 5.946
+t= 0221  max_bw: f1: 2.772 f2: 7.922 f3: 7.929
+
+flow 1 phase: 6 max_bw: 2.772 sending_bw: 2.772
+flow 2 phase: 0 max_bw: 7.922 sending_bw: 9.902
+flow 3 phase: 2 max_bw: 7.929 sending_bw: 7.929
+t= 0222 sending: f1: 2.772 f2: 9.902 f3: 7.929
+t= 0222 receive: f1: 2.162 f2: 7.813 f3: 7.838
+t= 0222  max_bw: f1: 2.772 f2: 7.922 f3: 7.927
+
+flow 1 phase: 7 max_bw: 2.772 sending_bw: 2.772
+flow 2 phase: 1 max_bw: 7.922 sending_bw: 5.941
+flow 3 phase: 3 max_bw: 7.927 sending_bw: 7.927
+t= 0223 sending: f1: 2.772 f2: 5.941 f3: 7.927
+t= 0223 receive: f1: 2.772 f2: 5.941 f3: 7.136
+t= 0223  max_bw: f1: 2.772 f2: 7.922 f3: 7.927
+
+flow 1 phase: 0 max_bw: 2.772 sending_bw: 3.465
+flow 2 phase: 2 max_bw: 7.922 sending_bw: 7.922
+flow 3 phase: 4 max_bw: 7.927 sending_bw: 7.927
+t= 0224 sending: f1: 3.465 f2: 7.922 f3: 7.927
+t= 0224 receive: f1: 2.774 f2: 6.957 f3: 7.226
+t= 0224  max_bw: f1: 2.774 f2: 7.922 f3: 7.927
+
+flow 1 phase: 1 max_bw: 2.774 sending_bw: 2.081
+flow 2 phase: 3 max_bw: 7.922 sending_bw: 7.922
+flow 3 phase: 5 max_bw: 7.927 sending_bw: 7.927
+t= 0225 sending: f1: 2.081 f2: 7.922 f3: 7.927
+t= 0225 receive: f1: 2.079 f2: 7.920 f3: 7.921
+t= 0225  max_bw: f1: 2.774 f2: 7.922 f3: 7.927
+
+flow 1 phase: 2 max_bw: 2.774 sending_bw: 2.774
+flow 2 phase: 4 max_bw: 7.922 sending_bw: 7.922
+flow 3 phase: 6 max_bw: 7.927 sending_bw: 7.927
+t= 0226 sending: f1: 2.774 f2: 7.922 f3: 7.927
+t= 0226 receive: f1: 2.465 f2: 7.406 f3: 7.535
+t= 0226  max_bw: f1: 2.774 f2: 7.922 f3: 7.927
+
+flow 1 phase: 3 max_bw: 2.774 sending_bw: 2.774
+flow 2 phase: 5 max_bw: 7.922 sending_bw: 7.922
+flow 3 phase: 7 max_bw: 7.927 sending_bw: 7.927
+t= 0227 sending: f1: 2.774 f2: 7.922 f3: 7.927
+t= 0227 receive: f1: 2.465 f2: 7.406 f3: 7.535
+t= 0227  max_bw: f1: 2.774 f2: 7.920 f3: 7.927
+
+flow 1 phase: 4 max_bw: 2.774 sending_bw: 2.774
+flow 2 phase: 6 max_bw: 7.920 sending_bw: 7.920
+flow 3 phase: 0 max_bw: 7.927 sending_bw: 9.908
+t= 0228 sending: f1: 2.774 f2: 7.920 f3: 9.908
+t= 0228 receive: f1: 2.075 f2: 7.406 f3: 7.925
+t= 0228  max_bw: f1: 2.774 f2: 7.920 f3: 7.927
+
+flow 1 phase: 5 max_bw: 2.774 sending_bw: 2.774
+flow 2 phase: 7 max_bw: 7.920 sending_bw: 7.920
+flow 3 phase: 1 max_bw: 7.927 sending_bw: 5.945
+t= 0229 sending: f1: 2.774 f2: 7.920 f3: 5.945
+t= 0229 receive: f1: 2.774 f2: 7.406 f3: 5.945
+t= 0229  max_bw: f1: 2.774 f2: 7.920 f3: 7.927
+
+flow 1 phase: 6 max_bw: 2.774 sending_bw: 2.774
+flow 2 phase: 0 max_bw: 7.920 sending_bw: 9.900
+flow 3 phase: 2 max_bw: 7.927 sending_bw: 7.927
+t= 0230 sending: f1: 2.774 f2: 9.900 f3: 7.927
+t= 0230 receive: f1: 2.164 f2: 7.811 f3: 7.836
+t= 0230  max_bw: f1: 2.774 f2: 7.920 f3: 7.925
+
+flow 1 phase: 7 max_bw: 2.774 sending_bw: 2.774
+flow 2 phase: 1 max_bw: 7.920 sending_bw: 5.940
+flow 3 phase: 3 max_bw: 7.925 sending_bw: 7.925
+t= 0231 sending: f1: 2.774 f2: 5.940 f3: 7.925
+t= 0231 receive: f1: 2.774 f2: 5.940 f3: 7.134
+t= 0231  max_bw: f1: 2.774 f2: 7.920 f3: 7.925
+
+flow 1 phase: 0 max_bw: 2.774 sending_bw: 3.468
+flow 2 phase: 2 max_bw: 7.920 sending_bw: 7.920
+flow 3 phase: 4 max_bw: 7.925 sending_bw: 7.925
+t= 0232 sending: f1: 3.468 f2: 7.920 f3: 7.925
+t= 0232 receive: f1: 2.776 f2: 6.955 f3: 7.224
+t= 0232  max_bw: f1: 2.776 f2: 7.920 f3: 7.925
+
+flow 1 phase: 1 max_bw: 2.776 sending_bw: 2.082
+flow 2 phase: 3 max_bw: 7.920 sending_bw: 7.920
+flow 3 phase: 5 max_bw: 7.925 sending_bw: 7.925
+t= 0233 sending: f1: 2.082 f2: 7.920 f3: 7.925
+t= 0233 receive: f1: 2.080 f2: 7.919 f3: 7.920
+t= 0233  max_bw: f1: 2.776 f2: 7.920 f3: 7.925
+
+flow 1 phase: 2 max_bw: 2.776 sending_bw: 2.776
+flow 2 phase: 4 max_bw: 7.920 sending_bw: 7.920
+flow 3 phase: 6 max_bw: 7.925 sending_bw: 7.925
+t= 0234 sending: f1: 2.776 f2: 7.920 f3: 7.925
+t= 0234 receive: f1: 2.467 f2: 7.405 f3: 7.533
+t= 0234  max_bw: f1: 2.776 f2: 7.920 f3: 7.925
+
+flow 1 phase: 3 max_bw: 2.776 sending_bw: 2.776
+flow 2 phase: 5 max_bw: 7.920 sending_bw: 7.920
+flow 3 phase: 7 max_bw: 7.925 sending_bw: 7.925
+t= 0235 sending: f1: 2.776 f2: 7.920 f3: 7.925
+t= 0235 receive: f1: 2.467 f2: 7.405 f3: 7.533
+t= 0235  max_bw: f1: 2.776 f2: 7.919 f3: 7.925
+
+flow 1 phase: 4 max_bw: 2.776 sending_bw: 2.776
+flow 2 phase: 6 max_bw: 7.919 sending_bw: 7.919
+flow 3 phase: 0 max_bw: 7.925 sending_bw: 9.906
+t= 0236 sending: f1: 2.776 f2: 7.919 f3: 9.906
+t= 0236 receive: f1: 2.076 f2: 7.404 f3: 7.924
+t= 0236  max_bw: f1: 2.776 f2: 7.919 f3: 7.925
+
+flow 1 phase: 5 max_bw: 2.776 sending_bw: 2.776
+flow 2 phase: 7 max_bw: 7.919 sending_bw: 7.919
+flow 3 phase: 1 max_bw: 7.925 sending_bw: 5.944
+t= 0237 sending: f1: 2.776 f2: 7.919 f3: 5.944
+t= 0237 receive: f1: 2.776 f2: 7.404 f3: 5.944
+t= 0237  max_bw: f1: 2.776 f2: 7.919 f3: 7.925
+
+flow 1 phase: 6 max_bw: 2.776 sending_bw: 2.776
+flow 2 phase: 0 max_bw: 7.919 sending_bw: 9.898
+flow 3 phase: 2 max_bw: 7.925 sending_bw: 7.925
+t= 0238 sending: f1: 2.776 f2: 9.898 f3: 7.925
+t= 0238 receive: f1: 2.165 f2: 7.810 f3: 7.835
+t= 0238  max_bw: f1: 2.776 f2: 7.919 f3: 7.924
+
+flow 1 phase: 7 max_bw: 2.776 sending_bw: 2.776
+flow 2 phase: 1 max_bw: 7.919 sending_bw: 5.939
+flow 3 phase: 3 max_bw: 7.924 sending_bw: 7.924
+t= 0239 sending: f1: 2.776 f2: 5.939 f3: 7.924
+t= 0239 receive: f1: 2.776 f2: 5.939 f3: 7.133
+t= 0239  max_bw: f1: 2.776 f2: 7.919 f3: 7.924
+
+flow 1 phase: 0 max_bw: 2.776 sending_bw: 3.470
+flow 2 phase: 2 max_bw: 7.919 sending_bw: 7.919
+flow 3 phase: 4 max_bw: 7.924 sending_bw: 7.924
+t= 0240 sending: f1: 3.470 f2: 7.919 f3: 7.924
+t= 0240 receive: f1: 2.777 f2: 6.953 f3: 7.223
+t= 0240  max_bw: f1: 2.777 f2: 7.919 f3: 7.924
+
+flow 1 phase: 1 max_bw: 2.777 sending_bw: 2.083
+flow 2 phase: 3 max_bw: 7.919 sending_bw: 7.919
+flow 3 phase: 5 max_bw: 7.924 sending_bw: 7.924
+t= 0241 sending: f1: 2.083 f2: 7.919 f3: 7.924
+t= 0241 receive: f1: 2.081 f2: 7.917 f3: 7.919
+t= 0241  max_bw: f1: 2.777 f2: 7.919 f3: 7.924
+
+flow 1 phase: 2 max_bw: 2.777 sending_bw: 2.777
+flow 2 phase: 4 max_bw: 7.919 sending_bw: 7.919
+flow 3 phase: 6 max_bw: 7.924 sending_bw: 7.924
+t= 0242 sending: f1: 2.777 f2: 7.919 f3: 7.924
+t= 0242 receive: f1: 2.468 f2: 7.403 f3: 7.532
+t= 0242  max_bw: f1: 2.777 f2: 7.919 f3: 7.924
+
+flow 1 phase: 3 max_bw: 2.777 sending_bw: 2.777
+flow 2 phase: 5 max_bw: 7.919 sending_bw: 7.919
+flow 3 phase: 7 max_bw: 7.924 sending_bw: 7.924
+t= 0243 sending: f1: 2.777 f2: 7.919 f3: 7.924
+t= 0243 receive: f1: 2.468 f2: 7.403 f3: 7.532
+t= 0243  max_bw: f1: 2.777 f2: 7.917 f3: 7.924
+
+flow 1 phase: 4 max_bw: 2.777 sending_bw: 2.777
+flow 2 phase: 6 max_bw: 7.917 sending_bw: 7.917
+flow 3 phase: 0 max_bw: 7.924 sending_bw: 9.905
+t= 0244 sending: f1: 2.777 f2: 7.917 f3: 9.905
+t= 0244 receive: f1: 2.077 f2: 7.403 f3: 7.923
+t= 0244  max_bw: f1: 2.777 f2: 7.917 f3: 7.924
+
+flow 1 phase: 5 max_bw: 2.777 sending_bw: 2.777
+flow 2 phase: 7 max_bw: 7.917 sending_bw: 7.917
+flow 3 phase: 1 max_bw: 7.924 sending_bw: 5.943
+t= 0245 sending: f1: 2.777 f2: 7.917 f3: 5.943
+t= 0245 receive: f1: 2.777 f2: 7.403 f3: 5.943
+t= 0245  max_bw: f1: 2.777 f2: 7.917 f3: 7.924
+
+flow 1 phase: 6 max_bw: 2.777 sending_bw: 2.777
+flow 2 phase: 0 max_bw: 7.917 sending_bw: 9.897
+flow 3 phase: 2 max_bw: 7.924 sending_bw: 7.924
+t= 0246 sending: f1: 2.777 f2: 9.897 f3: 7.924
+t= 0246 receive: f1: 2.166 f2: 7.809 f3: 7.834
+t= 0246  max_bw: f1: 2.777 f2: 7.917 f3: 7.923
+
+flow 1 phase: 7 max_bw: 2.777 sending_bw: 2.777
+flow 2 phase: 1 max_bw: 7.917 sending_bw: 5.938
+flow 3 phase: 3 max_bw: 7.923 sending_bw: 7.923
+t= 0247 sending: f1: 2.777 f2: 5.938 f3: 7.923
+t= 0247 receive: f1: 2.777 f2: 5.938 f3: 7.132
+t= 0247  max_bw: f1: 2.777 f2: 7.917 f3: 7.923
+
+flow 1 phase: 0 max_bw: 2.777 sending_bw: 3.471
+flow 2 phase: 2 max_bw: 7.917 sending_bw: 7.917
+flow 3 phase: 4 max_bw: 7.923 sending_bw: 7.923
+t= 0248 sending: f1: 3.471 f2: 7.917 f3: 7.923
+t= 0248 receive: f1: 2.778 f2: 6.952 f3: 7.222
+t= 0248  max_bw: f1: 2.778 f2: 7.917 f3: 7.923
+
+flow 1 phase: 1 max_bw: 2.778 sending_bw: 2.084
+flow 2 phase: 3 max_bw: 7.917 sending_bw: 7.917
+flow 3 phase: 5 max_bw: 7.923 sending_bw: 7.923
+t= 0249 sending: f1: 2.084 f2: 7.917 f3: 7.923
+t= 0249 receive: f1: 2.082 f2: 7.916 f3: 7.918
+t= 0249  max_bw: f1: 2.778 f2: 7.917 f3: 7.923
+
+flow 1 phase: 2 max_bw: 2.778 sending_bw: 2.778
+flow 2 phase: 4 max_bw: 7.917 sending_bw: 7.917
+flow 3 phase: 6 max_bw: 7.923 sending_bw: 7.923
+t= 0250 sending: f1: 2.778 f2: 7.917 f3: 7.923
+t= 0250 receive: f1: 2.469 f2: 7.402 f3: 7.531
+t= 0250  max_bw: f1: 2.778 f2: 7.917 f3: 7.923
+
+flow 1 phase: 3 max_bw: 2.778 sending_bw: 2.778
+flow 2 phase: 5 max_bw: 7.917 sending_bw: 7.917
+flow 3 phase: 7 max_bw: 7.923 sending_bw: 7.923
+t= 0251 sending: f1: 2.778 f2: 7.917 f3: 7.923
+t= 0251 receive: f1: 2.469 f2: 7.402 f3: 7.531
+t= 0251  max_bw: f1: 2.778 f2: 7.916 f3: 7.923
+
+flow 1 phase: 4 max_bw: 2.778 sending_bw: 2.778
+flow 2 phase: 6 max_bw: 7.916 sending_bw: 7.916
+flow 3 phase: 0 max_bw: 7.923 sending_bw: 9.904
+t= 0252 sending: f1: 2.778 f2: 7.916 f3: 9.904
+t= 0252 receive: f1: 2.078 f2: 7.402 f3: 7.922
+t= 0252  max_bw: f1: 2.778 f2: 7.916 f3: 7.923
+
+flow 1 phase: 5 max_bw: 2.778 sending_bw: 2.778
+flow 2 phase: 7 max_bw: 7.916 sending_bw: 7.916
+flow 3 phase: 1 max_bw: 7.923 sending_bw: 5.942
+t= 0253 sending: f1: 2.778 f2: 7.916 f3: 5.942
+t= 0253 receive: f1: 2.778 f2: 7.402 f3: 5.942
+t= 0253  max_bw: f1: 2.778 f2: 7.916 f3: 7.923
+
+flow 1 phase: 6 max_bw: 2.778 sending_bw: 2.778
+flow 2 phase: 0 max_bw: 7.916 sending_bw: 9.896
+flow 3 phase: 2 max_bw: 7.923 sending_bw: 7.923
+t= 0254 sending: f1: 2.778 f2: 9.896 f3: 7.923
+t= 0254 receive: f1: 2.167 f2: 7.808 f3: 7.833
+t= 0254  max_bw: f1: 2.778 f2: 7.916 f3: 7.922
+
+flow 1 phase: 7 max_bw: 2.778 sending_bw: 2.778
+flow 2 phase: 1 max_bw: 7.916 sending_bw: 5.937
+flow 3 phase: 3 max_bw: 7.922 sending_bw: 7.922
+t= 0255 sending: f1: 2.778 f2: 5.937 f3: 7.922
+t= 0255 receive: f1: 2.778 f2: 5.937 f3: 7.131
+t= 0255  max_bw: f1: 2.778 f2: 7.916 f3: 7.922
+
+flow 1 phase: 0 max_bw: 2.778 sending_bw: 3.473
+flow 2 phase: 2 max_bw: 7.916 sending_bw: 7.916
+flow 3 phase: 4 max_bw: 7.922 sending_bw: 7.922
+t= 0256 sending: f1: 3.473 f2: 7.916 f3: 7.922
+t= 0256 receive: f1: 2.779 f2: 6.951 f3: 7.221
+t= 0256  max_bw: f1: 2.779 f2: 7.916 f3: 7.922
+
+flow 1 phase: 1 max_bw: 2.779 sending_bw: 2.084
+flow 2 phase: 3 max_bw: 7.916 sending_bw: 7.916
+flow 3 phase: 5 max_bw: 7.922 sending_bw: 7.922
+t= 0257 sending: f1: 2.084 f2: 7.916 f3: 7.922
+t= 0257 receive: f1: 2.083 f2: 7.916 f3: 7.917
+t= 0257  max_bw: f1: 2.779 f2: 7.916 f3: 7.922
+
+flow 1 phase: 2 max_bw: 2.779 sending_bw: 2.779
+flow 2 phase: 4 max_bw: 7.916 sending_bw: 7.916
+flow 3 phase: 6 max_bw: 7.922 sending_bw: 7.922
+t= 0258 sending: f1: 2.779 f2: 7.916 f3: 7.922
+t= 0258 receive: f1: 2.470 f2: 7.401 f3: 7.530
+t= 0258  max_bw: f1: 2.779 f2: 7.916 f3: 7.922
+
+flow 1 phase: 3 max_bw: 2.779 sending_bw: 2.779
+flow 2 phase: 5 max_bw: 7.916 sending_bw: 7.916
+flow 3 phase: 7 max_bw: 7.922 sending_bw: 7.922
+t= 0259 sending: f1: 2.779 f2: 7.916 f3: 7.922
+t= 0259 receive: f1: 2.470 f2: 7.401 f3: 7.530
+t= 0259  max_bw: f1: 2.779 f2: 7.916 f3: 7.922
+
+flow 1 phase: 4 max_bw: 2.779 sending_bw: 2.779
+flow 2 phase: 6 max_bw: 7.916 sending_bw: 7.916
+flow 3 phase: 0 max_bw: 7.922 sending_bw: 9.902
+t= 0260 sending: f1: 2.779 f2: 7.916 f3: 9.902
+t= 0260 receive: f1: 2.079 f2: 7.401 f3: 7.921
+t= 0260  max_bw: f1: 2.779 f2: 7.916 f3: 7.922
+
+flow 1 phase: 5 max_bw: 2.779 sending_bw: 2.779
+flow 2 phase: 7 max_bw: 7.916 sending_bw: 7.916
+flow 3 phase: 1 max_bw: 7.922 sending_bw: 5.941
+t= 0261 sending: f1: 2.779 f2: 7.916 f3: 5.941
+t= 0261 receive: f1: 2.779 f2: 7.401 f3: 5.941
+t= 0261  max_bw: f1: 2.779 f2: 7.916 f3: 7.922
+
+flow 1 phase: 6 max_bw: 2.779 sending_bw: 2.779
+flow 2 phase: 0 max_bw: 7.916 sending_bw: 9.895
+flow 3 phase: 2 max_bw: 7.922 sending_bw: 7.922
+t= 0262 sending: f1: 2.779 f2: 9.895 f3: 7.922
+t= 0262 receive: f1: 2.168 f2: 7.807 f3: 7.832
+t= 0262  max_bw: f1: 2.779 f2: 7.916 f3: 7.921
+
+flow 1 phase: 7 max_bw: 2.779 sending_bw: 2.779
+flow 2 phase: 1 max_bw: 7.916 sending_bw: 5.937
+flow 3 phase: 3 max_bw: 7.921 sending_bw: 7.921
+t= 0263 sending: f1: 2.779 f2: 5.937 f3: 7.921
+t= 0263 receive: f1: 2.779 f2: 5.937 f3: 7.130
+t= 0263  max_bw: f1: 2.779 f2: 7.916 f3: 7.921
+
+flow 1 phase: 0 max_bw: 2.779 sending_bw: 3.474
+flow 2 phase: 2 max_bw: 7.916 sending_bw: 7.916
+flow 3 phase: 4 max_bw: 7.921 sending_bw: 7.921
+t= 0264 sending: f1: 3.474 f2: 7.916 f3: 7.921
+t= 0264 receive: f1: 2.780 f2: 6.950 f3: 7.220
+t= 0264  max_bw: f1: 2.780 f2: 7.916 f3: 7.921
+
+flow 1 phase: 1 max_bw: 2.780 sending_bw: 2.085
+flow 2 phase: 3 max_bw: 7.916 sending_bw: 7.916
+flow 3 phase: 5 max_bw: 7.921 sending_bw: 7.921
+t= 0265 sending: f1: 2.085 f2: 7.916 f3: 7.921
+t= 0265 receive: f1: 2.084 f2: 7.915 f3: 7.916
+t= 0265  max_bw: f1: 2.780 f2: 7.916 f3: 7.921
+
+flow 1 phase: 2 max_bw: 2.780 sending_bw: 2.780
+flow 2 phase: 4 max_bw: 7.916 sending_bw: 7.916
+flow 3 phase: 6 max_bw: 7.921 sending_bw: 7.921
+t= 0266 sending: f1: 2.780 f2: 7.916 f3: 7.921
+t= 0266 receive: f1: 2.471 f2: 7.401 f3: 7.529
+t= 0266  max_bw: f1: 2.780 f2: 7.916 f3: 7.921
+
+flow 1 phase: 3 max_bw: 2.780 sending_bw: 2.780
+flow 2 phase: 5 max_bw: 7.916 sending_bw: 7.916
+flow 3 phase: 7 max_bw: 7.921 sending_bw: 7.921
+t= 0267 sending: f1: 2.780 f2: 7.916 f3: 7.921
+t= 0267 receive: f1: 2.471 f2: 7.401 f3: 7.529
+t= 0267  max_bw: f1: 2.780 f2: 7.915 f3: 7.921
+
+flow 1 phase: 4 max_bw: 2.780 sending_bw: 2.780
+flow 2 phase: 6 max_bw: 7.915 sending_bw: 7.915
+flow 3 phase: 0 max_bw: 7.921 sending_bw: 9.902
+t= 0268 sending: f1: 2.780 f2: 7.915 f3: 9.902
+t= 0268 receive: f1: 2.079 f2: 7.401 f3: 7.921
+t= 0268  max_bw: f1: 2.780 f2: 7.915 f3: 7.921
+
+flow 1 phase: 5 max_bw: 2.780 sending_bw: 2.780
+flow 2 phase: 7 max_bw: 7.915 sending_bw: 7.915
+flow 3 phase: 1 max_bw: 7.921 sending_bw: 5.941
+t= 0269 sending: f1: 2.780 f2: 7.915 f3: 5.941
+t= 0269 receive: f1: 2.780 f2: 7.401 f3: 5.941
+t= 0269  max_bw: f1: 2.780 f2: 7.915 f3: 7.921
+
+flow 1 phase: 6 max_bw: 2.780 sending_bw: 2.780
+flow 2 phase: 0 max_bw: 7.915 sending_bw: 9.894
+flow 3 phase: 2 max_bw: 7.921 sending_bw: 7.921
+t= 0270 sending: f1: 2.780 f2: 9.894 f3: 7.921
+t= 0270 receive: f1: 2.169 f2: 7.806 f3: 7.831
+t= 0270  max_bw: f1: 2.780 f2: 7.915 f3: 7.921
+
+flow 1 phase: 7 max_bw: 2.780 sending_bw: 2.780
+flow 2 phase: 1 max_bw: 7.915 sending_bw: 5.936
+flow 3 phase: 3 max_bw: 7.921 sending_bw: 7.921
+t= 0271 sending: f1: 2.780 f2: 5.936 f3: 7.921
+t= 0271 receive: f1: 2.780 f2: 5.936 f3: 7.129
+t= 0271  max_bw: f1: 2.780 f2: 7.915 f3: 7.921
+
+flow 1 phase: 0 max_bw: 2.780 sending_bw: 3.475
+flow 2 phase: 2 max_bw: 7.915 sending_bw: 7.915
+flow 3 phase: 4 max_bw: 7.921 sending_bw: 7.921
+t= 0272 sending: f1: 3.475 f2: 7.915 f3: 7.921
+t= 0272 receive: f1: 2.781 f2: 6.949 f3: 7.219
+t= 0272  max_bw: f1: 2.781 f2: 7.915 f3: 7.921
+
+flow 1 phase: 1 max_bw: 2.781 sending_bw: 2.086
+flow 2 phase: 3 max_bw: 7.915 sending_bw: 7.915
+flow 3 phase: 5 max_bw: 7.921 sending_bw: 7.921
+t= 0273 sending: f1: 2.086 f2: 7.915 f3: 7.921
+t= 0273 receive: f1: 2.084 f2: 7.915 f3: 7.916
+t= 0273  max_bw: f1: 2.781 f2: 7.915 f3: 7.921
+
+flow 1 phase: 2 max_bw: 2.781 sending_bw: 2.781
+flow 2 phase: 4 max_bw: 7.915 sending_bw: 7.915
+flow 3 phase: 6 max_bw: 7.921 sending_bw: 7.921
+t= 0274 sending: f1: 2.781 f2: 7.915 f3: 7.921
+t= 0274 receive: f1: 2.471 f2: 7.400 f3: 7.529
+t= 0274  max_bw: f1: 2.781 f2: 7.915 f3: 7.921
+
+flow 1 phase: 3 max_bw: 2.781 sending_bw: 2.781
+flow 2 phase: 5 max_bw: 7.915 sending_bw: 7.915
+flow 3 phase: 7 max_bw: 7.921 sending_bw: 7.921
+t= 0275 sending: f1: 2.781 f2: 7.915 f3: 7.921
+t= 0275 receive: f1: 2.471 f2: 7.400 f3: 7.529
+t= 0275  max_bw: f1: 2.781 f2: 7.915 f3: 7.921
+
+flow 1 phase: 4 max_bw: 2.781 sending_bw: 2.781
+flow 2 phase: 6 max_bw: 7.915 sending_bw: 7.915
+flow 3 phase: 0 max_bw: 7.921 sending_bw: 9.901
+t= 0276 sending: f1: 2.781 f2: 7.915 f3: 9.901
+t= 0276 receive: f1: 2.080 f2: 7.400 f3: 7.920
+t= 0276  max_bw: f1: 2.781 f2: 7.915 f3: 7.921
+
+flow 1 phase: 5 max_bw: 2.781 sending_bw: 2.781
+flow 2 phase: 7 max_bw: 7.915 sending_bw: 7.915
+flow 3 phase: 1 max_bw: 7.921 sending_bw: 5.940
+t= 0277 sending: f1: 2.781 f2: 7.915 f3: 5.940
+t= 0277 receive: f1: 2.781 f2: 7.400 f3: 5.940
+t= 0277  max_bw: f1: 2.781 f2: 7.915 f3: 7.921
+
+flow 1 phase: 6 max_bw: 2.781 sending_bw: 2.781
+flow 2 phase: 0 max_bw: 7.915 sending_bw: 9.893
+flow 3 phase: 2 max_bw: 7.921 sending_bw: 7.921
+t= 0278 sending: f1: 2.781 f2: 9.893 f3: 7.921
+t= 0278 receive: f1: 2.169 f2: 7.806 f3: 7.831
+t= 0278  max_bw: f1: 2.781 f2: 7.915 f3: 7.920
+
+flow 1 phase: 7 max_bw: 2.781 sending_bw: 2.781
+flow 2 phase: 1 max_bw: 7.915 sending_bw: 5.936
+flow 3 phase: 3 max_bw: 7.920 sending_bw: 7.920
+t= 0279 sending: f1: 2.781 f2: 5.936 f3: 7.920
+t= 0279 receive: f1: 2.781 f2: 5.936 f3: 7.129
+t= 0279  max_bw: f1: 2.781 f2: 7.915 f3: 7.920
+
+flow 1 phase: 0 max_bw: 2.781 sending_bw: 3.476
+flow 2 phase: 2 max_bw: 7.915 sending_bw: 7.915
+flow 3 phase: 4 max_bw: 7.920 sending_bw: 7.920
+t= 0280 sending: f1: 3.476 f2: 7.915 f3: 7.920
+t= 0280 receive: f1: 2.781 f2: 6.948 f3: 7.219
+t= 0280  max_bw: f1: 2.781 f2: 7.915 f3: 7.920
+
+flow 1 phase: 1 max_bw: 2.781 sending_bw: 2.086
+flow 2 phase: 3 max_bw: 7.915 sending_bw: 7.915
+flow 3 phase: 5 max_bw: 7.920 sending_bw: 7.920
+t= 0281 sending: f1: 2.086 f2: 7.915 f3: 7.920
+t= 0281 receive: f1: 2.085 f2: 7.914 f3: 7.915
+t= 0281  max_bw: f1: 2.781 f2: 7.915 f3: 7.920
+
+flow 1 phase: 2 max_bw: 2.781 sending_bw: 2.781
+flow 2 phase: 4 max_bw: 7.915 sending_bw: 7.915
+flow 3 phase: 6 max_bw: 7.920 sending_bw: 7.920
+t= 0282 sending: f1: 2.781 f2: 7.915 f3: 7.920
+t= 0282 receive: f1: 2.472 f2: 7.400 f3: 7.528
+t= 0282  max_bw: f1: 2.781 f2: 7.915 f3: 7.920
+
+flow 1 phase: 3 max_bw: 2.781 sending_bw: 2.781
+flow 2 phase: 5 max_bw: 7.915 sending_bw: 7.915
+flow 3 phase: 7 max_bw: 7.920 sending_bw: 7.920
+t= 0283 sending: f1: 2.781 f2: 7.915 f3: 7.920
+t= 0283 receive: f1: 2.472 f2: 7.400 f3: 7.528
+t= 0283  max_bw: f1: 2.781 f2: 7.914 f3: 7.920
+
+flow 1 phase: 4 max_bw: 2.781 sending_bw: 2.781
+flow 2 phase: 6 max_bw: 7.914 sending_bw: 7.914
+flow 3 phase: 0 max_bw: 7.920 sending_bw: 9.900
+t= 0284 sending: f1: 2.781 f2: 7.914 f3: 9.900
+t= 0284 receive: f1: 2.080 f2: 7.399 f3: 7.920
+t= 0284  max_bw: f1: 2.781 f2: 7.914 f3: 7.920
+
+flow 1 phase: 5 max_bw: 2.781 sending_bw: 2.781
+flow 2 phase: 7 max_bw: 7.914 sending_bw: 7.914
+flow 3 phase: 1 max_bw: 7.920 sending_bw: 5.940
+t= 0285 sending: f1: 2.781 f2: 7.914 f3: 5.940
+t= 0285 receive: f1: 2.781 f2: 7.399 f3: 5.940
+t= 0285  max_bw: f1: 2.781 f2: 7.914 f3: 7.920
+
+flow 1 phase: 6 max_bw: 2.781 sending_bw: 2.781
+flow 2 phase: 0 max_bw: 7.914 sending_bw: 9.893
+flow 3 phase: 2 max_bw: 7.920 sending_bw: 7.920
+t= 0286 sending: f1: 2.781 f2: 9.893 f3: 7.920
+t= 0286 receive: f1: 2.170 f2: 7.805 f3: 7.830
+t= 0286  max_bw: f1: 2.781 f2: 7.914 f3: 7.920
+
+flow 1 phase: 7 max_bw: 2.781 sending_bw: 2.781
+flow 2 phase: 1 max_bw: 7.914 sending_bw: 5.936
+flow 3 phase: 3 max_bw: 7.920 sending_bw: 7.920
+t= 0287 sending: f1: 2.781 f2: 5.936 f3: 7.920
+t= 0287 receive: f1: 2.781 f2: 5.936 f3: 7.128
+t= 0287  max_bw: f1: 2.781 f2: 7.914 f3: 7.920
+
+flow 1 phase: 0 max_bw: 2.781 sending_bw: 3.477
+flow 2 phase: 2 max_bw: 7.914 sending_bw: 7.914
+flow 3 phase: 4 max_bw: 7.920 sending_bw: 7.920
+t= 0288 sending: f1: 3.477 f2: 7.914 f3: 7.920
+t= 0288 receive: f1: 2.782 f2: 6.948 f3: 7.218
+t= 0288  max_bw: f1: 2.782 f2: 7.914 f3: 7.920
+
+flow 1 phase: 1 max_bw: 2.782 sending_bw: 2.086
+flow 2 phase: 3 max_bw: 7.914 sending_bw: 7.914
+flow 3 phase: 5 max_bw: 7.920 sending_bw: 7.920
+t= 0289 sending: f1: 2.086 f2: 7.914 f3: 7.920
+t= 0289 receive: f1: 2.085 f2: 7.914 f3: 7.915
+t= 0289  max_bw: f1: 2.782 f2: 7.914 f3: 7.920
+
+flow 1 phase: 2 max_bw: 2.782 sending_bw: 2.782
+flow 2 phase: 4 max_bw: 7.914 sending_bw: 7.914
+flow 3 phase: 6 max_bw: 7.920 sending_bw: 7.920
+t= 0290 sending: f1: 2.782 f2: 7.914 f3: 7.920
+t= 0290 receive: f1: 2.472 f2: 7.399 f3: 7.528
+t= 0290  max_bw: f1: 2.782 f2: 7.914 f3: 7.920
+
+flow 1 phase: 3 max_bw: 2.782 sending_bw: 2.782
+flow 2 phase: 5 max_bw: 7.914 sending_bw: 7.914
+flow 3 phase: 7 max_bw: 7.920 sending_bw: 7.920
+t= 0291 sending: f1: 2.782 f2: 7.914 f3: 7.920
+t= 0291 receive: f1: 2.472 f2: 7.399 f3: 7.528
+t= 0291  max_bw: f1: 2.782 f2: 7.914 f3: 7.920
+
+flow 1 phase: 4 max_bw: 2.782 sending_bw: 2.782
+flow 2 phase: 6 max_bw: 7.914 sending_bw: 7.914
+flow 3 phase: 0 max_bw: 7.920 sending_bw: 9.900
+t= 0292 sending: f1: 2.782 f2: 7.914 f3: 9.900
+t= 0292 receive: f1: 2.081 f2: 7.399 f3: 7.919
+t= 0292  max_bw: f1: 2.782 f2: 7.914 f3: 7.920
+
+flow 1 phase: 5 max_bw: 2.782 sending_bw: 2.782
+flow 2 phase: 7 max_bw: 7.914 sending_bw: 7.914
+flow 3 phase: 1 max_bw: 7.920 sending_bw: 5.940
+t= 0293 sending: f1: 2.782 f2: 7.914 f3: 5.940
+t= 0293 receive: f1: 2.782 f2: 7.399 f3: 5.940
+t= 0293  max_bw: f1: 2.782 f2: 7.914 f3: 7.920
+
+flow 1 phase: 6 max_bw: 2.782 sending_bw: 2.782
+flow 2 phase: 0 max_bw: 7.914 sending_bw: 9.892
+flow 3 phase: 2 max_bw: 7.920 sending_bw: 7.920
+t= 0294 sending: f1: 2.782 f2: 9.892 f3: 7.920
+t= 0294 receive: f1: 2.170 f2: 7.805 f3: 7.830
+t= 0294  max_bw: f1: 2.782 f2: 7.914 f3: 7.919
+
+flow 1 phase: 7 max_bw: 2.782 sending_bw: 2.782
+flow 2 phase: 1 max_bw: 7.914 sending_bw: 5.935
+flow 3 phase: 3 max_bw: 7.919 sending_bw: 7.919
+t= 0295 sending: f1: 2.782 f2: 5.935 f3: 7.919
+t= 0295 receive: f1: 2.782 f2: 5.935 f3: 7.128
+t= 0295  max_bw: f1: 2.782 f2: 7.914 f3: 7.919
+
+flow 1 phase: 0 max_bw: 2.782 sending_bw: 3.477
+flow 2 phase: 2 max_bw: 7.914 sending_bw: 7.914
+flow 3 phase: 4 max_bw: 7.919 sending_bw: 7.919
+t= 0296 sending: f1: 3.477 f2: 7.914 f3: 7.919
+t= 0296 receive: f1: 2.782 f2: 6.947 f3: 7.218
+t= 0296  max_bw: f1: 2.782 f2: 7.914 f3: 7.919
+
+flow 1 phase: 1 max_bw: 2.782 sending_bw: 2.087
+flow 2 phase: 3 max_bw: 7.914 sending_bw: 7.914
+flow 3 phase: 5 max_bw: 7.919 sending_bw: 7.919
+t= 0297 sending: f1: 2.087 f2: 7.914 f3: 7.919
+t= 0297 receive: f1: 2.085 f2: 7.913 f3: 7.915
+t= 0297  max_bw: f1: 2.782 f2: 7.914 f3: 7.919
+
+flow 1 phase: 2 max_bw: 2.782 sending_bw: 2.782
+flow 2 phase: 4 max_bw: 7.914 sending_bw: 7.914
+flow 3 phase: 6 max_bw: 7.919 sending_bw: 7.919
+t= 0298 sending: f1: 2.782 f2: 7.914 f3: 7.919
+t= 0298 receive: f1: 2.473 f2: 7.399 f3: 7.527
+t= 0298  max_bw: f1: 2.782 f2: 7.914 f3: 7.919
+
+flow 1 phase: 3 max_bw: 2.782 sending_bw: 2.782
+flow 2 phase: 5 max_bw: 7.914 sending_bw: 7.914
+flow 3 phase: 7 max_bw: 7.919 sending_bw: 7.919
+t= 0299 sending: f1: 2.782 f2: 7.914 f3: 7.919
+t= 0299 receive: f1: 2.473 f2: 7.399 f3: 7.527
+t= 0299  max_bw: f1: 2.782 f2: 7.913 f3: 7.919
+
+flow 1 phase: 4 max_bw: 2.782 sending_bw: 2.782
+flow 2 phase: 6 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 0 max_bw: 7.919 sending_bw: 9.899
+t= 0300 sending: f1: 2.782 f2: 7.913 f3: 9.899
+t= 0300 receive: f1: 2.081 f2: 7.399 f3: 7.919
+t= 0300  max_bw: f1: 2.782 f2: 7.913 f3: 7.919
+
+flow 1 phase: 5 max_bw: 2.782 sending_bw: 2.782
+flow 2 phase: 7 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 1 max_bw: 7.919 sending_bw: 5.940
+t= 0301 sending: f1: 2.782 f2: 7.913 f3: 5.940
+t= 0301 receive: f1: 2.782 f2: 7.399 f3: 5.940
+t= 0301  max_bw: f1: 2.782 f2: 7.913 f3: 7.919
+
+flow 1 phase: 6 max_bw: 2.782 sending_bw: 2.782
+flow 2 phase: 0 max_bw: 7.913 sending_bw: 9.892
+flow 3 phase: 2 max_bw: 7.919 sending_bw: 7.919
+t= 0302 sending: f1: 2.782 f2: 9.892 f3: 7.919
+t= 0302 receive: f1: 2.170 f2: 7.805 f3: 7.830
+t= 0302  max_bw: f1: 2.782 f2: 7.913 f3: 7.919
+
+flow 1 phase: 7 max_bw: 2.782 sending_bw: 2.782
+flow 2 phase: 1 max_bw: 7.913 sending_bw: 5.935
+flow 3 phase: 3 max_bw: 7.919 sending_bw: 7.919
+t= 0303 sending: f1: 2.782 f2: 5.935 f3: 7.919
+t= 0303 receive: f1: 2.782 f2: 5.935 f3: 7.127
+t= 0303  max_bw: f1: 2.782 f2: 7.913 f3: 7.919
+
+flow 1 phase: 0 max_bw: 2.782 sending_bw: 3.478
+flow 2 phase: 2 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 4 max_bw: 7.919 sending_bw: 7.919
+t= 0304 sending: f1: 3.478 f2: 7.913 f3: 7.919
+t= 0304 receive: f1: 2.783 f2: 6.947 f3: 7.217
+t= 0304  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 1 max_bw: 2.783 sending_bw: 2.087
+flow 2 phase: 3 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 5 max_bw: 7.919 sending_bw: 7.919
+t= 0305 sending: f1: 2.087 f2: 7.913 f3: 7.919
+t= 0305 receive: f1: 2.086 f2: 7.913 f3: 7.914
+t= 0305  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 2 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 4 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 6 max_bw: 7.919 sending_bw: 7.919
+t= 0306 sending: f1: 2.783 f2: 7.913 f3: 7.919
+t= 0306 receive: f1: 2.473 f2: 7.398 f3: 7.527
+t= 0306  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 3 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 5 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 7 max_bw: 7.919 sending_bw: 7.919
+t= 0307 sending: f1: 2.783 f2: 7.913 f3: 7.919
+t= 0307 receive: f1: 2.473 f2: 7.398 f3: 7.527
+t= 0307  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 4 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 6 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 0 max_bw: 7.919 sending_bw: 9.899
+t= 0308 sending: f1: 2.783 f2: 7.913 f3: 9.899
+t= 0308 receive: f1: 2.081 f2: 7.398 f3: 7.919
+t= 0308  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 5 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 7 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 1 max_bw: 7.919 sending_bw: 5.939
+t= 0309 sending: f1: 2.783 f2: 7.913 f3: 5.939
+t= 0309 receive: f1: 2.783 f2: 7.398 f3: 5.939
+t= 0309  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 6 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 0 max_bw: 7.913 sending_bw: 9.891
+flow 3 phase: 2 max_bw: 7.919 sending_bw: 7.919
+t= 0310 sending: f1: 2.783 f2: 9.891 f3: 7.919
+t= 0310 receive: f1: 2.171 f2: 7.805 f3: 7.829
+t= 0310  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 7 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 1 max_bw: 7.913 sending_bw: 5.935
+flow 3 phase: 3 max_bw: 7.919 sending_bw: 7.919
+t= 0311 sending: f1: 2.783 f2: 5.935 f3: 7.919
+t= 0311 receive: f1: 2.783 f2: 5.935 f3: 7.127
+t= 0311  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 0 max_bw: 2.783 sending_bw: 3.478
+flow 2 phase: 2 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 4 max_bw: 7.919 sending_bw: 7.919
+t= 0312 sending: f1: 3.478 f2: 7.913 f3: 7.919
+t= 0312 receive: f1: 2.783 f2: 6.947 f3: 7.217
+t= 0312  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 1 max_bw: 2.783 sending_bw: 2.087
+flow 2 phase: 3 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 5 max_bw: 7.919 sending_bw: 7.919
+t= 0313 sending: f1: 2.087 f2: 7.913 f3: 7.919
+t= 0313 receive: f1: 2.086 f2: 7.913 f3: 7.914
+t= 0313  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 2 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 4 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 6 max_bw: 7.919 sending_bw: 7.919
+t= 0314 sending: f1: 2.783 f2: 7.913 f3: 7.919
+t= 0314 receive: f1: 2.473 f2: 7.398 f3: 7.527
+t= 0314  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 3 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 5 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 7 max_bw: 7.919 sending_bw: 7.919
+t= 0315 sending: f1: 2.783 f2: 7.913 f3: 7.919
+t= 0315 receive: f1: 2.473 f2: 7.398 f3: 7.527
+t= 0315  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 4 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 6 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 0 max_bw: 7.919 sending_bw: 9.899
+t= 0316 sending: f1: 2.783 f2: 7.913 f3: 9.899
+t= 0316 receive: f1: 2.081 f2: 7.398 f3: 7.919
+t= 0316  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 5 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 7 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 1 max_bw: 7.919 sending_bw: 5.939
+t= 0317 sending: f1: 2.783 f2: 7.913 f3: 5.939
+t= 0317 receive: f1: 2.783 f2: 7.398 f3: 5.939
+t= 0317  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 6 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 0 max_bw: 7.913 sending_bw: 9.891
+flow 3 phase: 2 max_bw: 7.919 sending_bw: 7.919
+t= 0318 sending: f1: 2.783 f2: 9.891 f3: 7.919
+t= 0318 receive: f1: 2.171 f2: 7.804 f3: 7.829
+t= 0318  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 7 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 1 max_bw: 7.913 sending_bw: 5.935
+flow 3 phase: 3 max_bw: 7.919 sending_bw: 7.919
+t= 0319 sending: f1: 2.783 f2: 5.935 f3: 7.919
+t= 0319 receive: f1: 2.783 f2: 5.935 f3: 7.127
+t= 0319  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 0 max_bw: 2.783 sending_bw: 3.479
+flow 2 phase: 2 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 4 max_bw: 7.919 sending_bw: 7.919
+t= 0320 sending: f1: 3.479 f2: 7.913 f3: 7.919
+t= 0320 receive: f1: 2.783 f2: 6.946 f3: 7.217
+t= 0320  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 1 max_bw: 2.783 sending_bw: 2.087
+flow 2 phase: 3 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 5 max_bw: 7.919 sending_bw: 7.919
+t= 0321 sending: f1: 2.087 f2: 7.913 f3: 7.919
+t= 0321 receive: f1: 2.086 f2: 7.913 f3: 7.914
+t= 0321  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 2 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 4 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 6 max_bw: 7.919 sending_bw: 7.919
+t= 0322 sending: f1: 2.783 f2: 7.913 f3: 7.919
+t= 0322 receive: f1: 2.473 f2: 7.398 f3: 7.527
+t= 0322  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 3 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 5 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 7 max_bw: 7.919 sending_bw: 7.919
+t= 0323 sending: f1: 2.783 f2: 7.913 f3: 7.919
+t= 0323 receive: f1: 2.473 f2: 7.398 f3: 7.527
+t= 0323  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 4 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 6 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 0 max_bw: 7.919 sending_bw: 9.898
+t= 0324 sending: f1: 2.783 f2: 7.913 f3: 9.898
+t= 0324 receive: f1: 2.082 f2: 7.398 f3: 7.918
+t= 0324  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 5 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 7 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 1 max_bw: 7.919 sending_bw: 5.939
+t= 0325 sending: f1: 2.783 f2: 7.913 f3: 5.939
+t= 0325 receive: f1: 2.783 f2: 7.398 f3: 5.939
+t= 0325  max_bw: f1: 2.783 f2: 7.913 f3: 7.919
+
+flow 1 phase: 6 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 0 max_bw: 7.913 sending_bw: 9.891
+flow 3 phase: 2 max_bw: 7.919 sending_bw: 7.919
+t= 0326 sending: f1: 2.783 f2: 9.891 f3: 7.919
+t= 0326 receive: f1: 2.171 f2: 7.804 f3: 7.829
+t= 0326  max_bw: f1: 2.783 f2: 7.913 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 1 max_bw: 7.913 sending_bw: 5.935
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0327 sending: f1: 2.783 f2: 5.935 f3: 7.918
+t= 0327 receive: f1: 2.783 f2: 5.935 f3: 7.127
+t= 0327  max_bw: f1: 2.783 f2: 7.913 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.783 sending_bw: 3.479
+flow 2 phase: 2 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0328 sending: f1: 3.479 f2: 7.913 f3: 7.918
+t= 0328 receive: f1: 2.783 f2: 6.946 f3: 7.217
+t= 0328  max_bw: f1: 2.783 f2: 7.913 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.783 sending_bw: 2.087
+flow 2 phase: 3 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0329 sending: f1: 2.087 f2: 7.913 f3: 7.918
+t= 0329 receive: f1: 2.086 f2: 7.913 f3: 7.914
+t= 0329  max_bw: f1: 2.783 f2: 7.913 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 4 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0330 sending: f1: 2.783 f2: 7.913 f3: 7.918
+t= 0330 receive: f1: 2.473 f2: 7.398 f3: 7.527
+t= 0330  max_bw: f1: 2.783 f2: 7.913 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 5 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0331 sending: f1: 2.783 f2: 7.913 f3: 7.918
+t= 0331 receive: f1: 2.473 f2: 7.398 f3: 7.527
+t= 0331  max_bw: f1: 2.783 f2: 7.913 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 6 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.898
+t= 0332 sending: f1: 2.783 f2: 7.913 f3: 9.898
+t= 0332 receive: f1: 2.082 f2: 7.398 f3: 7.918
+t= 0332  max_bw: f1: 2.783 f2: 7.913 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 7 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.939
+t= 0333 sending: f1: 2.783 f2: 7.913 f3: 5.939
+t= 0333 receive: f1: 2.783 f2: 7.398 f3: 5.939
+t= 0333  max_bw: f1: 2.783 f2: 7.913 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 0 max_bw: 7.913 sending_bw: 9.891
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0334 sending: f1: 2.783 f2: 9.891 f3: 7.918
+t= 0334 receive: f1: 2.171 f2: 7.804 f3: 7.829
+t= 0334  max_bw: f1: 2.783 f2: 7.913 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 1 max_bw: 7.913 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0335 sending: f1: 2.783 f2: 5.934 f3: 7.918
+t= 0335 receive: f1: 2.783 f2: 5.934 f3: 7.127
+t= 0335  max_bw: f1: 2.783 f2: 7.913 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.783 sending_bw: 3.479
+flow 2 phase: 2 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0336 sending: f1: 3.479 f2: 7.913 f3: 7.918
+t= 0336 receive: f1: 2.783 f2: 6.946 f3: 7.217
+t= 0336  max_bw: f1: 2.783 f2: 7.913 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.783 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0337 sending: f1: 2.088 f2: 7.913 f3: 7.918
+t= 0337 receive: f1: 2.086 f2: 7.912 f3: 7.914
+t= 0337  max_bw: f1: 2.783 f2: 7.913 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 4 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0338 sending: f1: 2.783 f2: 7.913 f3: 7.918
+t= 0338 receive: f1: 2.474 f2: 7.398 f3: 7.526
+t= 0338  max_bw: f1: 2.783 f2: 7.913 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 5 max_bw: 7.913 sending_bw: 7.913
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0339 sending: f1: 2.783 f2: 7.913 f3: 7.918
+t= 0339 receive: f1: 2.474 f2: 7.398 f3: 7.526
+t= 0339  max_bw: f1: 2.783 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.898
+t= 0340 sending: f1: 2.783 f2: 7.912 f3: 9.898
+t= 0340 receive: f1: 2.082 f2: 7.398 f3: 7.918
+t= 0340  max_bw: f1: 2.783 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.939
+t= 0341 sending: f1: 2.783 f2: 7.912 f3: 5.939
+t= 0341 receive: f1: 2.783 f2: 7.398 f3: 5.939
+t= 0341  max_bw: f1: 2.783 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.891
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0342 sending: f1: 2.783 f2: 9.891 f3: 7.918
+t= 0342 receive: f1: 2.171 f2: 7.804 f3: 7.829
+t= 0342  max_bw: f1: 2.783 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.783 sending_bw: 2.783
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0343 sending: f1: 2.783 f2: 5.934 f3: 7.918
+t= 0343 receive: f1: 2.783 f2: 5.934 f3: 7.126
+t= 0343  max_bw: f1: 2.783 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.783 sending_bw: 3.479
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0344 sending: f1: 3.479 f2: 7.912 f3: 7.918
+t= 0344 receive: f1: 2.784 f2: 6.946 f3: 7.216
+t= 0344  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0345 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0345 receive: f1: 2.086 f2: 7.912 f3: 7.914
+t= 0345  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0346 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0346 receive: f1: 2.474 f2: 7.398 f3: 7.526
+t= 0346  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0347 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0347 receive: f1: 2.474 f2: 7.398 f3: 7.526
+t= 0347  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.898
+t= 0348 sending: f1: 2.784 f2: 7.912 f3: 9.898
+t= 0348 receive: f1: 2.082 f2: 7.398 f3: 7.918
+t= 0348  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.939
+t= 0349 sending: f1: 2.784 f2: 7.912 f3: 5.939
+t= 0349 receive: f1: 2.784 f2: 7.398 f3: 5.939
+t= 0349  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0350 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0350 receive: f1: 2.171 f2: 7.804 f3: 7.829
+t= 0350  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0351 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0351 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0351  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.479
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0352 sending: f1: 3.479 f2: 7.912 f3: 7.918
+t= 0352 receive: f1: 2.784 f2: 6.946 f3: 7.216
+t= 0352  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0353 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0353 receive: f1: 2.086 f2: 7.912 f3: 7.914
+t= 0353  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0354 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0354 receive: f1: 2.474 f2: 7.398 f3: 7.526
+t= 0354  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0355 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0355 receive: f1: 2.474 f2: 7.398 f3: 7.526
+t= 0355  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.898
+t= 0356 sending: f1: 2.784 f2: 7.912 f3: 9.898
+t= 0356 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0356  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.939
+t= 0357 sending: f1: 2.784 f2: 7.912 f3: 5.939
+t= 0357 receive: f1: 2.784 f2: 7.397 f3: 5.939
+t= 0357  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0358 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0358 receive: f1: 2.171 f2: 7.804 f3: 7.829
+t= 0358  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0359 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0359 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0359  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0360 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0360 receive: f1: 2.784 f2: 6.946 f3: 7.216
+t= 0360  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0361 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0361 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0361  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0362 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0362 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0362  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0363 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0363 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0363  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.898
+t= 0364 sending: f1: 2.784 f2: 7.912 f3: 9.898
+t= 0364 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0364  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.939
+t= 0365 sending: f1: 2.784 f2: 7.912 f3: 5.939
+t= 0365 receive: f1: 2.784 f2: 7.397 f3: 5.939
+t= 0365  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0366 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0366 receive: f1: 2.172 f2: 7.804 f3: 7.828
+t= 0366  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0367 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0367 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0367  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0368 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0368 receive: f1: 2.784 f2: 6.946 f3: 7.216
+t= 0368  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0369 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0369 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0369  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0370 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0370 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0370  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0371 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0371 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0371  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.897
+t= 0372 sending: f1: 2.784 f2: 7.912 f3: 9.897
+t= 0372 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0372  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.938
+t= 0373 sending: f1: 2.784 f2: 7.912 f3: 5.938
+t= 0373 receive: f1: 2.784 f2: 7.397 f3: 5.938
+t= 0373  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0374 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0374 receive: f1: 2.172 f2: 7.804 f3: 7.828
+t= 0374  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0375 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0375 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0375  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0376 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0376 receive: f1: 2.784 f2: 6.945 f3: 7.216
+t= 0376  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0377 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0377 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0377  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0378 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0378 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0378  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0379 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0379 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0379  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.897
+t= 0380 sending: f1: 2.784 f2: 7.912 f3: 9.897
+t= 0380 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0380  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.938
+t= 0381 sending: f1: 2.784 f2: 7.912 f3: 5.938
+t= 0381 receive: f1: 2.784 f2: 7.397 f3: 5.938
+t= 0381  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0382 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0382 receive: f1: 2.172 f2: 7.803 f3: 7.828
+t= 0382  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0383 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0383 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0383  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0384 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0384 receive: f1: 2.784 f2: 6.945 f3: 7.216
+t= 0384  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0385 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0385 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0385  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0386 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0386 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0386  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0387 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0387 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0387  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.897
+t= 0388 sending: f1: 2.784 f2: 7.912 f3: 9.897
+t= 0388 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0388  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.938
+t= 0389 sending: f1: 2.784 f2: 7.912 f3: 5.938
+t= 0389 receive: f1: 2.784 f2: 7.397 f3: 5.938
+t= 0389  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0390 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0390 receive: f1: 2.172 f2: 7.803 f3: 7.828
+t= 0390  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0391 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0391 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0391  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0392 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0392 receive: f1: 2.784 f2: 6.945 f3: 7.216
+t= 0392  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0393 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0393 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0393  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0394 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0394 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0394  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0395 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0395 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0395  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.897
+t= 0396 sending: f1: 2.784 f2: 7.912 f3: 9.897
+t= 0396 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0396  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.938
+t= 0397 sending: f1: 2.784 f2: 7.912 f3: 5.938
+t= 0397 receive: f1: 2.784 f2: 7.397 f3: 5.938
+t= 0397  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0398 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0398 receive: f1: 2.172 f2: 7.803 f3: 7.828
+t= 0398  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0399 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0399 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0399  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0400 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0400 receive: f1: 2.784 f2: 6.945 f3: 7.216
+t= 0400  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0401 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0401 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0401  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0402 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0402 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0402  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0403 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0403 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0403  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.897
+t= 0404 sending: f1: 2.784 f2: 7.912 f3: 9.897
+t= 0404 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0404  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.938
+t= 0405 sending: f1: 2.784 f2: 7.912 f3: 5.938
+t= 0405 receive: f1: 2.784 f2: 7.397 f3: 5.938
+t= 0405  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0406 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0406 receive: f1: 2.172 f2: 7.803 f3: 7.828
+t= 0406  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0407 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0407 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0407  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0408 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0408 receive: f1: 2.784 f2: 6.945 f3: 7.216
+t= 0408  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0409 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0409 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0409  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0410 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0410 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0410  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0411 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0411 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0411  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.897
+t= 0412 sending: f1: 2.784 f2: 7.912 f3: 9.897
+t= 0412 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0412  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.938
+t= 0413 sending: f1: 2.784 f2: 7.912 f3: 5.938
+t= 0413 receive: f1: 2.784 f2: 7.397 f3: 5.938
+t= 0413  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0414 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0414 receive: f1: 2.172 f2: 7.803 f3: 7.828
+t= 0414  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0415 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0415 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0415  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0416 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0416 receive: f1: 2.784 f2: 6.945 f3: 7.216
+t= 0416  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0417 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0417 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0417  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0418 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0418 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0418  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0419 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0419 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0419  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.897
+t= 0420 sending: f1: 2.784 f2: 7.912 f3: 9.897
+t= 0420 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0420  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.938
+t= 0421 sending: f1: 2.784 f2: 7.912 f3: 5.938
+t= 0421 receive: f1: 2.784 f2: 7.397 f3: 5.938
+t= 0421  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0422 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0422 receive: f1: 2.172 f2: 7.803 f3: 7.828
+t= 0422  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0423 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0423 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0423  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0424 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0424 receive: f1: 2.784 f2: 6.945 f3: 7.216
+t= 0424  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0425 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0425 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0425  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0426 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0426 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0426  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0427 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0427 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0427  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.897
+t= 0428 sending: f1: 2.784 f2: 7.912 f3: 9.897
+t= 0428 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0428  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.938
+t= 0429 sending: f1: 2.784 f2: 7.912 f3: 5.938
+t= 0429 receive: f1: 2.784 f2: 7.397 f3: 5.938
+t= 0429  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0430 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0430 receive: f1: 2.172 f2: 7.803 f3: 7.828
+t= 0430  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0431 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0431 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0431  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0432 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0432 receive: f1: 2.784 f2: 6.945 f3: 7.216
+t= 0432  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0433 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0433 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0433  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0434 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0434 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0434  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0435 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0435 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0435  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.897
+t= 0436 sending: f1: 2.784 f2: 7.912 f3: 9.897
+t= 0436 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0436  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.938
+t= 0437 sending: f1: 2.784 f2: 7.912 f3: 5.938
+t= 0437 receive: f1: 2.784 f2: 7.397 f3: 5.938
+t= 0437  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0438 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0438 receive: f1: 2.172 f2: 7.803 f3: 7.828
+t= 0438  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0439 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0439 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0439  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0440 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0440 receive: f1: 2.784 f2: 6.945 f3: 7.216
+t= 0440  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0441 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0441 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0441  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0442 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0442 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0442  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0443 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0443 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0443  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.897
+t= 0444 sending: f1: 2.784 f2: 7.912 f3: 9.897
+t= 0444 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0444  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.938
+t= 0445 sending: f1: 2.784 f2: 7.912 f3: 5.938
+t= 0445 receive: f1: 2.784 f2: 7.397 f3: 5.938
+t= 0445  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0446 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0446 receive: f1: 2.172 f2: 7.803 f3: 7.828
+t= 0446  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0447 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0447 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0447  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0448 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0448 receive: f1: 2.784 f2: 6.945 f3: 7.216
+t= 0448  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0449 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0449 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0449  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0450 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0450 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0450  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0451 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0451 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0451  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.897
+t= 0452 sending: f1: 2.784 f2: 7.912 f3: 9.897
+t= 0452 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0452  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.938
+t= 0453 sending: f1: 2.784 f2: 7.912 f3: 5.938
+t= 0453 receive: f1: 2.784 f2: 7.397 f3: 5.938
+t= 0453  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0454 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0454 receive: f1: 2.172 f2: 7.803 f3: 7.828
+t= 0454  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0455 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0455 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0455  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0456 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0456 receive: f1: 2.784 f2: 6.945 f3: 7.216
+t= 0456  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0457 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0457 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0457  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0458 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0458 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0458  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0459 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0459 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0459  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.897
+t= 0460 sending: f1: 2.784 f2: 7.912 f3: 9.897
+t= 0460 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0460  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.938
+t= 0461 sending: f1: 2.784 f2: 7.912 f3: 5.938
+t= 0461 receive: f1: 2.784 f2: 7.397 f3: 5.938
+t= 0461  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0462 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0462 receive: f1: 2.172 f2: 7.803 f3: 7.828
+t= 0462  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0463 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0463 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0463  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0464 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0464 receive: f1: 2.784 f2: 6.945 f3: 7.216
+t= 0464  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0465 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0465 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0465  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0466 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0466 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0466  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0467 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0467 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0467  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.897
+t= 0468 sending: f1: 2.784 f2: 7.912 f3: 9.897
+t= 0468 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0468  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.938
+t= 0469 sending: f1: 2.784 f2: 7.912 f3: 5.938
+t= 0469 receive: f1: 2.784 f2: 7.397 f3: 5.938
+t= 0469  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0470 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0470 receive: f1: 2.172 f2: 7.803 f3: 7.828
+t= 0470  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0471 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0471 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0471  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0472 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0472 receive: f1: 2.784 f2: 6.945 f3: 7.216
+t= 0472  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0473 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0473 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0473  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0474 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0474 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0474  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0475 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0475 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0475  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.897
+t= 0476 sending: f1: 2.784 f2: 7.912 f3: 9.897
+t= 0476 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0476  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.938
+t= 0477 sending: f1: 2.784 f2: 7.912 f3: 5.938
+t= 0477 receive: f1: 2.784 f2: 7.397 f3: 5.938
+t= 0477  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0478 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0478 receive: f1: 2.172 f2: 7.803 f3: 7.828
+t= 0478  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0479 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0479 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0479  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0480 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0480 receive: f1: 2.784 f2: 6.945 f3: 7.216
+t= 0480  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0481 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0481 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0481  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0482 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0482 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0482  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0483 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0483 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0483  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.897
+t= 0484 sending: f1: 2.784 f2: 7.912 f3: 9.897
+t= 0484 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0484  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.938
+t= 0485 sending: f1: 2.784 f2: 7.912 f3: 5.938
+t= 0485 receive: f1: 2.784 f2: 7.397 f3: 5.938
+t= 0485  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0486 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0486 receive: f1: 2.172 f2: 7.803 f3: 7.828
+t= 0486  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0487 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0487 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0487  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0488 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0488 receive: f1: 2.784 f2: 6.945 f3: 7.216
+t= 0488  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0489 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0489 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0489  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0490 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0490 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0490  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0491 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0491 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0491  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 4 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 6 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 0 max_bw: 7.918 sending_bw: 9.897
+t= 0492 sending: f1: 2.784 f2: 7.912 f3: 9.897
+t= 0492 receive: f1: 2.082 f2: 7.397 f3: 7.918
+t= 0492  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 5 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 7 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 1 max_bw: 7.918 sending_bw: 5.938
+t= 0493 sending: f1: 2.784 f2: 7.912 f3: 5.938
+t= 0493 receive: f1: 2.784 f2: 7.397 f3: 5.938
+t= 0493  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 6 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 0 max_bw: 7.912 sending_bw: 9.890
+flow 3 phase: 2 max_bw: 7.918 sending_bw: 7.918
+t= 0494 sending: f1: 2.784 f2: 9.890 f3: 7.918
+t= 0494 receive: f1: 2.172 f2: 7.803 f3: 7.828
+t= 0494  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 7 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 1 max_bw: 7.912 sending_bw: 5.934
+flow 3 phase: 3 max_bw: 7.918 sending_bw: 7.918
+t= 0495 sending: f1: 2.784 f2: 5.934 f3: 7.918
+t= 0495 receive: f1: 2.784 f2: 5.934 f3: 7.126
+t= 0495  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 0 max_bw: 2.784 sending_bw: 3.480
+flow 2 phase: 2 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 4 max_bw: 7.918 sending_bw: 7.918
+t= 0496 sending: f1: 3.480 f2: 7.912 f3: 7.918
+t= 0496 receive: f1: 2.784 f2: 6.945 f3: 7.216
+t= 0496  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 1 max_bw: 2.784 sending_bw: 2.088
+flow 2 phase: 3 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 5 max_bw: 7.918 sending_bw: 7.918
+t= 0497 sending: f1: 2.088 f2: 7.912 f3: 7.918
+t= 0497 receive: f1: 2.087 f2: 7.912 f3: 7.913
+t= 0497  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 2 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 4 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 6 max_bw: 7.918 sending_bw: 7.918
+t= 0498 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0498 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0498  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
+flow 1 phase: 3 max_bw: 2.784 sending_bw: 2.784
+flow 2 phase: 5 max_bw: 7.912 sending_bw: 7.912
+flow 3 phase: 7 max_bw: 7.918 sending_bw: 7.918
+t= 0499 sending: f1: 2.784 f2: 7.912 f3: 7.918
+t= 0499 receive: f1: 2.474 f2: 7.397 f3: 7.526
+t= 0499  max_bw: f1: 2.784 f2: 7.912 f3: 7.918
+
